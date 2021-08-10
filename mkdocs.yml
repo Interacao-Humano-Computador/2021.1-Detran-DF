@@ -11,3 +11,4 @@ theme:
 
 nav:
   - Início: index.md
+  - Planejamento: planejamento.md
