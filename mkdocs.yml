@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: IHC Grupo 9
+
+theme: 
+  name: material
+  language: pt
+  features:
+    - navigation.instant
+  palette:
+    primary: indigo
+    accent: indigo
+
+nav:
+  - Início: index.md
