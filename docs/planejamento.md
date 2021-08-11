@@ -8,6 +8,11 @@
 - Matheus Pinheiro - <a href="http://www.detran.df.gov.br/" target="blank">Detran DF</a>
 - Sara Campos - <a href="https://letterboxd.com/" target="blank">Letterboxd</a>
 
+O grupo discutiu qual seria a melhor opção dentro das avaliadas individualmente
+e chegou num consenso de avaliar o site do Detran na disciplina.
+A avaliação individual do aluno Matheus Pinheiro pode ser vista 
+<a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180030345_aluno_unb_br/Ed6FwKM56TpPqBL4DtmHYIUBlrKRB9T3NPglh-9PV7omkg?e=5cxxm9">aqui</a>.
+
 ## 2. Cronograma
 
 ### 2.1 Cronograma de Atividades
@@ -26,3 +31,4 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/08/2021 | Criação da base do planejamento. | Arthur Sena e Marcos Felipe |
+| 1.0.1 | 10/08/2021 | Adição do site escolhido. | Arthur Sena |
