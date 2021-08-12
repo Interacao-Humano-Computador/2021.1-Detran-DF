@@ -12,3 +12,5 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: planejamento.md
+  - Processo de Design:
+    - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
