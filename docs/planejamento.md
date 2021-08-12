@@ -108,6 +108,6 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/08/2021 | Criação da base do planejamento. | Arthur Sena e Marcos Felipe |
-| 1.0.1 | 10/08/2021 | Adição do site escolhido. | Arthur Sena |
+| 1.0.1 | 10/08/2021 | Adição do site escolhido | Arthur Sena |
 | 1.0.2 | 12/08/2021 | Adição tópico Metodologia | Carlos Eduardo |
-| 1.0.3 | 12/08/2021 | Adição tópico Cronograma | Carlos Eduardo |
+| 1.0.3 | 12/08/2021 | Adição tópico Cronograma | Arthur Sena |
