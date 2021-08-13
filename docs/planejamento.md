@@ -69,8 +69,8 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 
 ## 4. Ferramentas
 
-| Ferramenta | Descrição/Uso |
-| - | - |
+| Ferramenta | Nome | Descrição/Uso |
+| - | - | - |
 | <img alt="detran" width="80px" height="80px" src="./images/detran.jpg"> | Detran-DF | Site do Departameneto de Trânsito do Distrito Federal, escolhido para avaliação |
 | <img alt="detran" width="80px" height="80px" src="./images/git.jpg"> | GitHub | Ferramenta para controle de registro e versionamento de arquivos |
 | <img alt="detran" width="80px" height="80px" src="./images/vscode.jpg"> | Visual Studio Code | Editor de código |
@@ -79,7 +79,7 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 | <img alt="detran" width="80px" height="80px" src="./images/teams.jpeg"> | Microsoft Teams | Plataforma de comunicação por chamada de voz/vídeo usada para realizar/gravar reuniões |
 | <img alt="detran" width="80px" height="80px" src="./images/excel.jpg"> | Microsoft Excel | Aplicativo para criação de planilhas |
 | <img alt="detran" width="80px" height="80px" src="./images/drive.png"> | Drive | Serviço de disco virtual para registro de arquivos | 
-| <img alt="detran" width="80px" height="80px" src="./images/draw.jpg"> | Draw.io | Plataforma para edição gráfica |
+| <img alt="detran" width="80px" height="80px" src="./images/draw.jpg"> | Draw .io | Plataforma para edição gráfica |
 | <img alt="detran" width="80px" height="80px" src="./images/canva.jpg"> | Canva | Plataforma de produção gráfica |
 
 
