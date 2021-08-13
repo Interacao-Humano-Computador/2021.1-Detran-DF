@@ -69,18 +69,18 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 
 ## 4. Ferramentas
 
-| Ferramenta | Nome | Descrição/Uso |
-| - | - | - |
-| ![Detran-DF](./images/detran.jpg) | Detran-DF | Site do Departameneto de Trânsito do Distrito Federal, escolhido para avaliação |
-| ![Github](./images/git.jpg) | GitHub | Ferramenta para controle de registro e versionamento de arquivos |
-| ![VSCode](./images/vscode.jpg) | Visual Studio Code | Editor de código |
-| ![Telegram](./images/telegram.jpg) | Telegram | Aplicativo de mensagens facilitador da comunicação do grupo |
-| ![Discord](./images/discord.jpg) | Discord | Plataforma de comunicação por chamada de voz/vídeo usada para reuniões do grupo | 
-| ![Teams](./images/teams.jpeg) | Microsoft Teams | Plataforma de comunicação por chamada de voz/vídeo usada para realizar/gravar reuniões |
-| ![Excel](./images/excel.jpg) | Microsoft Excel | Aplicativo para criação de planilhas |
-| ![Drive](./images/drive.png) | Drive | Serviço de disco virtual para registro de arquivos | 
-| ![Draw](./images/draw.jpg) | Draw.io | Plataforma para edição gráfica |
-| ![Canva](./images/canva.jpg) | Canva | Plataforma de produção gráfica |
+| Ferramenta | Descrição/Uso |
+| - | - |
+| <img alt="detran" width="80px" height="80px" src="./images/detran.jpg"> | Detran-DF | Site do Departameneto de Trânsito do Distrito Federal, escolhido para avaliação |
+| <img alt="detran" width="80px" height="80px" src="./images/git.jpg"> | GitHub | Ferramenta para controle de registro e versionamento de arquivos |
+| <img alt="detran" width="80px" height="80px" src="./images/vscode.jpg"> | Visual Studio Code | Editor de código |
+| <img alt="detran" width="80px" height="80px" src="./images/telegram.jpg"> | Telegram | Aplicativo de mensagens facilitador da comunicação do grupo |
+| <img alt="detran" width="80px" height="80px" src="./images/discord.jpg"> | Discord | Plataforma de comunicação por chamada de voz/vídeo usada para reuniões do grupo | 
+| <img alt="detran" width="80px" height="80px" src="./images/teams.jpeg"> | Microsoft Teams | Plataforma de comunicação por chamada de voz/vídeo usada para realizar/gravar reuniões |
+| <img alt="detran" width="80px" height="80px" src="./images/excel.jpg"> | Microsoft Excel | Aplicativo para criação de planilhas |
+| <img alt="detran" width="80px" height="80px" src="./images/drive.png"> | Drive | Serviço de disco virtual para registro de arquivos | 
+| <img alt="detran" width="80px" height="80px" src="./images/draw.jpg"> | Draw.io | Plataforma para edição gráfica |
+| <img alt="detran" width="80px" height="80px" src="./images/canva.jpg"> | Canva | Plataforma de produção gráfica |
 
 
 ## 5. Bibliografia
