@@ -17,7 +17,34 @@ A avaliação individual do aluno Matheus Pinheiro pode ser vista
 
 ### 2.1 Cronograma de Atividades
 
+Cronograma de atividades em grupo da disciplina baseado no plano de ensino, sujeito a alterações.
+
+|Título|Data|Descrição|
+|:-----:|:-----------------------------:|:----------------------------------:|
+|Apresentação do Projeto Etapa 1|17/08|Planejamento do Projeto e Processo de Design|
+|Apresentação do Projeto Etapa 2|31/08|Perfil do Usuário, Personas e Análise de Tarefas|
+|Apresentação do Projeto Etapa 3|09/09|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: Análise de Requisitos|
+|Apresentação do Projeto Etapa 4|16/09|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
+|Apresentação do Projeto Etapa 5|23/09|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
+|Apresentação do Projeto Etapa 6|05/10|Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
+|Apresentação do Projeto Etapa 7|07/10|Verificação dos artefatos construídos no projeto|
+|Apresentação do Projeto Etapa Final|20/10|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
+
+<center>
+<figcaption>Tabela 1 - Cronograma de atividades</figcaption>
+</center>
+
 ### 2.2 Disponibilidade dos Integrantes
+
+Tabela criada com o intuito de otimizar a coordenação das atividades em grupo onde 
+cada integrante informou em qual horário está livre.
+
+<div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
+  <img src="../assets/horarios.png" alt="Horários disponíveis">
+</div>
+<center>
+<figcaption>Figura 1 - Grade de disponibilidade dos integrantes</figcaption>
+</center>
 
 ## 3. Metodologia 
 
@@ -95,6 +122,7 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/08/2021 | Criação da base do planejamento. | Arthur Sena e Marcos Felipe |
-| 1.0.1 | 10/08/2021 | Adição do site escolhido. | Arthur Sena |
+| 1.0.1 | 10/08/2021 | Adição do site escolhido | Arthur Sena |
 | 1.0.2 | 12/08/2021 | Adição tópico Metodologia | Carlos Eduardo |
-| 1.0.2 | 12/08/2021 | Adição do tópico de Ferramentas | Sara Campos |
+| 1.0.3 | 12/08/2021 | Adição do tópico de Ferramentas | Sara Campos |
+| 1.0.4 | 12/08/2021 | Adição do tópico de Cronograma | Arthur Sena |
