@@ -69,6 +69,20 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 
 ## 4. Ferramentas
 
+| Ferramenta | Nome | Descrição/Uso |
+| - | - | - |
+|<img width="80px" height="80px" src="../assets/detran.jpg" style="object-fit: contain;" alt="Detran DF">| Detran-DF | Site do Departameneto de Trânsito do Distrito Federal, escolhido para avaliação |
+|<img width="80px" height="80px" src="../assets/git.jpg" style="object-fit: contain;" alt="Github">| GitHub | Ferramenta para controle de registro e versionamento de arquivos |
+|<img width="80px" height="80px" src="../assets/vscode.jpg" style="object-fit: contain;" alt="VS Code">| Visual Studio Code | Editor de código |
+|<img width="80px" height="80px" src="../assets/telegram.jpg" style="object-fit: contain;" alt="Telegram">| Telegram | Aplicativo de mensagens facilitador da comunicação do grupo |
+|<img width="80px" height="80px" src="../assets/discord.jpg" style="object-fit: contain;" alt="Discord">| Discord | Plataforma de comunicação por chamada de voz/vídeo usada para reuniões do grupo | 
+|<img width="80px" height="80px" src="../assets/teams.jpeg" style="object-fit: contain;" alt="Ms Teams">| Microsoft Teams | Plataforma de comunicação por chamada de voz/vídeo usada para realizar/gravar reuniões |
+|<img width="80px" height="80px" src="../assets/excel.jpg" style="object-fit: contain;" alt="Ms Excel">| Microsoft Excel | Aplicativo para criação de planilhas |
+|<img width="80px" height="80px" src="../assets/drive.png" style="object-fit: contain;" alt="Google Drive">| Drive | Serviço de disco virtual para registro de arquivos | 
+|<img width="80px" height="80px" src="../assets/draw.jpg" style="object-fit: contain;" alt="Draw.io">| Draw.io | Plataforma para edição gráfica |
+|<img width="80px" height="80px" src="../assets/canva.jpg" style="object-fit: contain;" alt="Canva">| Canva | Plataforma de produção gráfica |
+
+
 ## 5. Bibliografia
 
 >SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, <b>Interação Humano-Computador</b>, 1a . Edição, Editora Campus, 2010.
@@ -83,3 +97,4 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 | 1.0 | 10/08/2021 | Criação da base do planejamento. | Arthur Sena e Marcos Felipe |
 | 1.0.1 | 10/08/2021 | Adição do site escolhido. | Arthur Sena |
 | 1.0.2 | 12/08/2021 | Adição tópico Metodologia | Carlos Eduardo |
+| 1.0.2 | 12/08/2021 | Adição do tópico de Ferramentas | Sara Campos |
