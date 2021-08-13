@@ -69,6 +69,20 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 
 ## 4. Ferramentas
 
+| Ferramenta | Nome | Descrição/Uso |
+| - | - | - |
+| ![Detran-DF](./images/detran.jpg) | Detran-DF | Site do Departameneto de Trânsito do Distrito Federal, escolhido para avaliação |
+| ![Github](./images/git.jpg) | GitHub | Ferramenta para controle de registro e versionamento de arquivos |
+| ![VSCode](./images/vscode.jpg) | Visual Studio Code | Editor de código |
+| ![Telegram](./images/telegram.jpg) | Telegram | Aplicativo de mensagens facilitador da comunicação do grupo |
+| ![Discord](./images/discord.jpg) | Discord | Plataforma de comunicação por chamada de voz/vídeo usada para reuniões do grupo | 
+| ![Teams](./images/teams.jpeg) | Microsoft Teams | Plataforma de comunicação por chamada de voz/vídeo usada para realizar/gravar reuniões |
+| ![Excel](./images/excel.jpg) | Microsoft Excel | Aplicativo para criação de planilhas |
+| ![Drive](./images/drive.png) | Drive | Serviço de disco virtual para registro de arquivos | 
+| ![Draw](./images/draw.jpg) | Draw.io | Plataforma para edição gráfica |
+| ![Canva](./images/canva.jpg) | Canva | Plataforma de produção gráfica |
+
+
 ## 5. Bibliografia
 
 >SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, <b>Interação Humano-Computador</b>, 1a . Edição, Editora Campus, 2010.
@@ -83,3 +97,4 @@ Co-authored-by: John Cenna <peacemaker@gmail.com>
 | 1.0 | 10/08/2021 | Criação da base do planejamento. | Arthur Sena e Marcos Felipe |
 | 1.0.1 | 10/08/2021 | Adição do site escolhido. | Arthur Sena |
 | 1.0.2 | 12/08/2021 | Adição tópico Metodologia | Carlos Eduardo |
+| 1.0.2 | 12/08/2021 | Adição do tópico de Ferramentas | Sara Campos |
