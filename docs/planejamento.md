@@ -19,16 +19,16 @@ A avaliação individual do aluno Matheus Pinheiro pode ser vista
 
 Cronograma de atividades em grupo da disciplina baseado no plano de ensino, sujeito a alterações.
 
-|Título|Data|Descrição|
-|:-----:|:-----------------------------:|:----------------------------------:|
-|Apresentação do Projeto Etapa 1|17/08|Planejamento do Projeto e Processo de Design|
-|Apresentação do Projeto Etapa 2|31/08|Perfil do Usuário, Personas e Análise de Tarefas|
-|Apresentação do Projeto Etapa 3|09/09|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: Análise de Requisitos|
-|Apresentação do Projeto Etapa 4|16/09|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
-|Apresentação do Projeto Etapa 5|23/09|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
-|Apresentação do Projeto Etapa 6|05/10|Relato dos resultados do Protótipo de Papel e Planejamento daAvaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
-|Apresentação do Projeto Etapa 7|07/10|Verificação dos artefatos construídos no projeto|
-|Apresentação do Projeto Etapa Final|20/10|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
+|Título|Data de conclusão|Data de entrega|Descrição|
+|:-----:|:-----------------------------:|:-----------------:|:----------------------------------:|
+|Entrega do Projeto Etapa 1|13/08|16/08|Planejamento do Projeto e Processo de Design|
+|Entrega do Projeto Etapa 2|26/08|28/08|Perfil do Usuário, Personas e Análise de Tarefas|
+|Entrega do Projeto Etapa 3|02/09|04/09|Princípios Gerais de Projeto, Metas de usabilidade, Guia de Estilo. (Fase: Análise de Requisitos|
+|Entrega do Projeto Etapa 4|06/09|08/09|Planejamento da Avaliação e planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.|
+|Entrega do Projeto Etapa 5|17/09|20/09|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
+|Entrega do Projeto Etapa 6|30/09|02/10|Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
+|Entrega do Projeto Etapa 7|03/10|04/10|Verificação dos artefatos construídos no projeto|
+|Entrega do Projeto Etapa Final|18/10|20/10|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
 
 <center>
 <figcaption>Tabela 1 - Cronograma de atividades</figcaption>
