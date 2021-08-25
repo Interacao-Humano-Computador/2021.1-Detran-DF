@@ -11,6 +11,8 @@ theme:
 
 nav:
   - Início: index.md
+  - Atas de Reunião: 
+    - Reunião 1: reunioes/reuniao1.md
   - Planejamento: planejamento.md
   - Processo de Design:
     - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
