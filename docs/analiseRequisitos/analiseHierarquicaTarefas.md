@@ -26,7 +26,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-AgendarServico.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de agendar um serviço no Detran-DF</figcaption>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de agendar um serviço no Detran-DF, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a>
 
@@ -44,7 +44,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-Consultar Débitos de Veiculo.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de consultar os possíveis débitos de um veículo</figcaption>
+<figcaption style="text-align: center">Figura 2: Diagrama referente a tarefa de consultar os possíveis débitos de um veículo, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Consultar%20D%C3%A9bitos%20de%20Veiculo.png"> Link da imagem </a>
 
@@ -61,7 +61,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-Solicitar CNH definitiva.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de solicitar a emissão da CNH definitiva</figcaption>
+<figcaption style="text-align: center">Figura 3: Diagrama referente a tarefa de solicitar a emissão da CNH definitiva, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Solicitar%20CNH%20definitiva.png"> Link da imagem </a>
 
@@ -77,7 +77,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-Transferir a propriedade de um veículo.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de realizar a transferência de propriedade de um veículo</figcaption>
+<figcaption style="text-align: center">Figura 4: Diagrama referente a tarefa de realizar a transferência de propriedade de um veículo, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Transferir%20a%20propriedade%20de%20um%20ve%C3%ADculo.png"> Link da imagem </a>
 
@@ -99,7 +99,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-Agendamento de Biometria.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de realizar o agendamento do cadastro de biometria</figcaption>
+<figcaption style="text-align: center">Figura 5: Diagrama referente a tarefa de realizar o agendamento do cadastro de biometria, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Agendamento%20de%20Biometria.png"> Link da imagem </a>
 
@@ -118,7 +118,7 @@ Elementos de um diagrama HTA:
 
 #### Diagrama HTA
 <img src="../../assets/analiseRequisitos/HTA/HTA-Acessar informações.png" width="700px;" alt=""/>
-<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de acessar informações diversas</figcaption>
+<figcaption style="text-align: center">Figura 6: Diagrama referente a tarefa de acessar informações diversas, fonte: autores.</figcaption>
 
 <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Acessar%20informa%C3%A7%C3%B5es.png"> Link da imagem </a>
 
