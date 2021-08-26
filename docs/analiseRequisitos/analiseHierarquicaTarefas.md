@@ -25,7 +25,8 @@ Elementos de um diagrama HTA:
 ### HTA01: Agendar Serviço
 
 #### Diagrama HTA
-<img src="../../assets/analiseRequisitos/HTA/hta01.png" width="700px;" alt=""/>
+<img src="../../assets/analiseRequisitos/HTA/HTA-AgendarServico.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de agendar um serviço no Detran-DF</figcaption>
 
 #### Tabela HTA
 | Objetivo/Operações | Problemas e Recomendações |
@@ -40,7 +41,8 @@ Elementos de um diagrama HTA:
 ### HTA02: Consultar Débitos Veículo
 
 #### Diagrama HTA
-<img src="../../assets/analiseRequisitos/HTA/hta02.png" width="600px;" alt=""/>
+<img src="../../assets/analiseRequisitos/HTA/HTA-Consultar Débitos de Veiculo.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de consultar os possíveis débitos de um veículo</figcaption>
 
 #### Tabela HTA
 | Objetivo/Operações | Problemas e Recomendações |
@@ -54,7 +56,8 @@ Elementos de um diagrama HTA:
 ### HTA03: Solicitar CHN Definitiva
 
 #### Diagrama HTA
-<img src="../../assets/analiseRequisitos/HTA/hta03.png" width="500px;" alt=""/>
+<img src="../../assets/analiseRequisitos/HTA/HTA-Solicitar CNH definitiva.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de solicitar a emissão da CNH definitiva</figcaption>
 
 #### Tabela HTA
 | Objetivo/Operações | Problemas e Recomendações |
@@ -64,6 +67,58 @@ Elementos de um diagrama HTA:
 | 2. Enviar | ação: clicar no botão enviar |
 | 2.1 Baixar borderô | ação: baixar borderô |
 
+### HTA04: Transferir propriedade de um veículo
+
+#### Diagrama HTA
+<img src="../../assets/analiseRequisitos/HTA/HTA-Transferir a propriedade de um veículo.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de realizar a transferência de propriedade de um veículo</figcaption>
+
+#### Tabela HTA
+| Objetivo/Operações | Problemas e Recomendações |
+| -- | -- |
+| 0. Tranferir a propriedade de um veículo<br> <center> 1/2>3>4 </center> | input: formulário com placa, renavam e captcha. <br/> plano: realizar vistoria para transferir a propriedade do veículo. <br> problema: site usado para realizar a ação é um diferente do Detran-DF e seu portal, adicionando assim mais um site ao caminho |
+| 1. Agendar Vistoria do Veículo | ação: entrar na área de agendamento de serviços e agendar a vistoria. <br/> problema: é preciso voltar ao portal para assim selecionar a opção de realizar vistoria. <br/> recomendação1: colocar um link que redirecionará o usuário para a área de agendamento de serviços. |
+| 1.1 Realizar Vistoria | ação: Realizar Vistoria presencialmente em uma unidade do Detran-DF|
+| 2. Informar dados do Veiculo | ação: preencher formulário com dados do veículo |
+| 2.1 Informar placa, renavam e responder o Captcha | ação: informar a placa e renavam do veículo e responder o Captcha |
+| 3. Pagar Dívidas Ativas do Veículo <br/> <center>1/2</center> | ação: Verificar se há dividas referentes ao veículo, se sim, efetuar o pagamento |
+| 3.1 Emitir boleto de pagamento | ação: emitir boleto para o pagamento da dívida e realiza-lo |
+| 3.2 Acessar site da receita Federal caso a dívida seja o IPVA | ação: Acessar o site da Receita Federal para obter o boleto de pagamento do IPVA |
+| 4 Agendamento da transferência da propriedade do veículo | ação: Realizar o agendamento/informativo da transferência de propriedade do veículo |
+| 4.1 Confirmação do agendamento | ação: confirmar e realizar a transferência do veículo |
+
+### HTA05: Agendamento de Biometria
+
+#### Diagrama HTA
+<img src="../../assets/analiseRequisitos/HTA/HTA-Agendamento de Biometria.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de realizar o agendamento do cadastro de biometria</figcaption>
+
+#### Tabela HTA
+| Objetivo/Operações | Problemas e Recomendações |
+| -- | -- |
+| 0. Agendamento de Biometria <br/> <center>1>2>3</center> | input: CPF, nome, senha, local de agendamento, data do agendamento e horario do agendamento <br/> plano: Agendar o cadastro de Biometria em um posto de atendimento do Detran-DF <br> problema: O site utilizado para o agendamento da biometria é outro além dos já citados, com cadastro próprio. |
+| 1. Entrar ou cadastrar-se <br/> <center>1/2</center> | ação: Acessar o site de realização do agendamento de biometria <br/> problema: cadastro próprio do site. <br/> recomendação: Usar o cadastro do portal de serviços do Detran-DF |
+| 1.1 Inserir CPF e senha para entrar | ação: inserir CPF e Senha para login no site |
+| 1.2 Se cadastrar | ação: realizar cadastro no site para efetuar o agendamento. |
+| 2. Clicar em novo agendamento | ação: clicar em novo agendamento para segui para página desejada. |
+| 2.1 Inserir dados para o agendamento | ação: escolher o posto de atendimento, a data de agendamento e o horário de agendamento |
+| 3. Clicar em cadastrar | ação: clicar em "cadastrar" para finalizar o agendamento. |
+
+### HTA06: Acessar informações
+
+#### Diagrama HTA
+<img src="../../assets/analiseRequisitos/HTA/HTA-Acessar informações.png" width="700px;" alt=""/>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de acessar informações diversas</figcaption>
+
+#### Tabela HTA
+| Objetivo/Operações | Problemas e Recomendações |
+| -- | -- |
+| 0. Acessar Informações <br/> <center>1/2/3</center> | input: palavra-chave para pesquisa. <br/> plano: obter as informações desejadas no site do Detran-DF. |
+| 1. Escolher categoria pela barra superior | ação: Escolher categoria desejada pela barra de superior de seleção. |
+| 1.1 Escolher a página de informação dentro da categoria | ação: escolher informação dentro das categorias mostradas após escolha na barra superior <br> problema: Muitas escolhas. <br> recomendação: Deixar a escolha de temas e categorias mais intuitivas e auxiliar o usuário nessa escolha. |
+| 2. Escolher a informação rolando a página | ação: Escolher a informação desejada após rolar o site. <br> problema: Página muito poluída visualmente, ocasionando confusão ao usuário <br> recomendação: usar de um design mais minimalista para mostrar as informações de destaque |
+| 3. Pesquisar a informação | ação: Pesquisar pela informação desejada usado a barra de pesquisa do site. <br> problema: Se a informação for uma funcionalidade do site e não uma noticia a pesquisa responde com informações erradas. <br> recomendação: incluir páginas referentes á funcionalidades ofertadas pelo sítio nos resultados de pesquisa. |
+
 ## Referências bibliográficas
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
@@ -72,3 +127,4 @@ Elementos de um diagrama HTA:
 |--|--|--|--|
 | 1.0 | 23/08/2021 | Criação do documento | Carlos e Matheus |
 | 1.1 | 23/08/2021 | Adição dos resultados | Carlos e Matheus |
+| 1.2 | 26/08/2021 | Correção de diagramas e adição de novos | Carlos e Matheus |
