@@ -16,3 +16,5 @@ nav:
   - Planejamento: planejamento.md
   - Processo de Design:
     - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
+  - Análise de Requisitos:
+    - Análise Hierárquica de Tarefas: analiseRequisitos/analiseHierarquicaTarefas.md
