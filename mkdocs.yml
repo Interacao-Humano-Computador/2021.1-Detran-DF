@@ -19,3 +19,4 @@ nav:
   - Análise de Requisitos:
     - Perfil do Usuário e Personas: analiseRequisitos/perfil.md
     - Análise Hierárquica de Tarefas: analiseRequisitos/analiseHierarquicaTarefas.md
+    - G.O.M.S: analiseRequisitos/metodoGOMS.md
