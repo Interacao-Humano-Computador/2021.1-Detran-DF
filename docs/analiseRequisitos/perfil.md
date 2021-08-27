@@ -1,17 +1,20 @@
 # 1. Perfil do Usuário
 
-A definição de um perfil de usuário é extremamente importante
-para o projeto pois somente a partir deste é possível conhecer os
-usuários que utilizarão o sistema, quais seus interesses e quais suas 
-características (como idade, experiência e quais as atividades
-que irão realizar utilizando o projeto).
-
-Tendo consciência de tal importância o grupo decidiu utilizar 
-de questionários para realizar o levantamento do perfil. Após
-isso criaram-se as personas, baseado num resultado bastante
-homogêneo já que o nosso projeto é baseado no site Detran DF,
-uma plataforma utilizada pelos mais diversos tipos pessoas
-das mais diversas idades.
+<p style="text-align: justify;">
+    A definição de um perfil de usuário é extremamente importante
+    para o projeto pois somente a partir deste é possível conhecer os
+    usuários que utilizarão o sistema, quais seus interesses e quais suas 
+    características (como idade, experiência e quais as atividades
+    que irão realizar utilizando o projeto).
+    <br/>
+    <br/>
+    Tendo consciência de tal importância o grupo decidiu utilizar 
+    de questionários para realizar o levantamento do perfil. Após
+    isso criaram-se as personas, baseado num resultado bastante
+    homogêneo já que o nosso projeto é baseado no site Detran DF,
+    uma plataforma utilizada pelos mais diversos tipos pessoas
+    das mais diversas idades.
+</p>
 
 # 2. Personas
 
@@ -58,6 +61,9 @@ das mais diversas idades.
 | Habilitado: | Sim |
 | Requisitos: | Pesquisar por infrações registradas no seu carro e conseguir informações sobre prazos de renovação  |
 | Expectativas: | Espera conseguir informações sobre sua primeira renovação da CNH, e verificar a pontuação de sua carteira, assim como, infrações registradas no seu carro. |
+
+## Referências bibliográficas
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 
