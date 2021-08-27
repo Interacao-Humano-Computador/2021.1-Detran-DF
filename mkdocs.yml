@@ -17,4 +17,5 @@ nav:
   - Processo de Design:
     - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
   - Análise de Requisitos:
+    - Perfil do Usuário e Personas: analiseRequisitos/perfil.md
     - Análise Hierárquica de Tarefas: analiseRequisitos/analiseHierarquicaTarefas.md
