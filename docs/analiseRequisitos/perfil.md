@@ -1,6 +1,6 @@
 # 1. Perfil do Usuário
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px;text-align: justify;">
     A definição de um perfil de usuário é extremamente importante
     para o projeto pois somente a partir deste é possível conhecer os
     usuários que utilizarão o sistema, quais seus interesses e quais suas 
@@ -8,6 +8,8 @@
     que irão realizar utilizando o projeto).
     <br/>
     <br/>
+</p>
+<p style="text-indent: 20px;text-align: justify;">   
     Tendo consciência de tal importância o grupo decidiu utilizar 
     de questionários para realizar o levantamento do perfil. Após
     isso criaram-se as personas, baseado num resultado bastante
