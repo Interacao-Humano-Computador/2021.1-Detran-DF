@@ -31,6 +31,9 @@
 | Requisitos: | Nelton deseja que o site possua uma interface intuitiva para realização das suas atividades já que não tem muita familiaridade com o computador |
 | Expectativas: | Espera conseguir periodicamente pesquisar e verificar sua documentação no site do Detran DF (infrações, renovações, veículos etc.) |
 
+<h6><center> Persona 1 </center></h6>
+<br/>
+
 | Persona | José Fernandes Freire |
 |--|--|
 | Status: | Persona primária |
@@ -41,6 +44,9 @@
 | Habilitado: | Sim |
 | Requisitos: | Deseja que o site possua uma interface intuitiva para realização das suas atividades já que não tem muita familiaridade com o computador  |
 | Expectativas: | Espera se informar sobre suas infrações periodicamente assim como sobre possíveis renovações |
+
+<h6><center> Persona 2 </center></h6>
+<br/>
 
 | Persona | Heloísa Feitosa |
 |--|--|
@@ -53,6 +59,9 @@
 | Requisitos: | Conhecer as informações relacionadas à Carteira Nacional de Habilitação - CNH |
 | Expectativas: | Espera conseguir informações a retirada da sua primeira CNH, assim como pesquisar por resultados das fases do processo |
 
+<h6><center> Persona 3 </center></h6>
+<br/>
+
 | Persona | Danilo Bauer |
 |--|--|
 | Status: | Persona primária |
@@ -63,6 +72,23 @@
 | Habilitado: | Sim |
 | Requisitos: | Pesquisar por infrações registradas no seu carro e conseguir informações sobre prazos de renovação  |
 | Expectativas: | Espera conseguir informações sobre sua primeira renovação da CNH, e verificar a pontuação de sua carteira, assim como, infrações registradas no seu carro. |
+
+<h6><center> Persona 4 </center></h6>
+<br/>
+
+| Persona | Julios Sousa |
+|--|--|
+| Status: | Antipersona |
+| Foto: | <img src="/assets/analiseRequisitos/personas/persona5.jpeg" alt="Enzo" style="width:160px;"/> |
+| Idade: | 44 anos |
+| Profissão: | Ambientalista |
+| Escolaridade: | Nível Médio completo |
+| Habilitado: | Sim |
+| Requisitos: | Consultar seu IPVA  |
+| Expectativas: | Espera conseguir informações sobre seu IPVA, mas como tudo em sua vida, não gosta de nada muito complicado e tecnológico, por isso prefere ir pessoalmente a uma agência do detran. |
+
+<h6><center> Persona 5 </center></h6>
+<br/>
 
 ## Referências bibliográficas
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
