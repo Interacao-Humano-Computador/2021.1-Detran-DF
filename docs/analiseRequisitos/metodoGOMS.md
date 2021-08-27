@@ -2,11 +2,15 @@
 
 ## O Método
 
-O método propõe um conjunto de modelos chamado GOMS (*Goals*, *Operators*, *Methods* e *Selection rules*) e é usado para descrever/analisar uma tarefa e o conhecimento do usuário sobre como realizá-la sem cometer erros.
+<p style="text-indent: 20px; text-align: justify"> 
+O método propõe um conjunto de modelos chamado GOMS (<b>Goals, Operators, Methods e Selection rules</b>) e é usado para descrever/analisar uma tarefa e o conhecimento do usuário sobre como realizá-la sem cometer erros.
+</p>
 
 ## A escolha do método
 
+<p style="text-indent: 20px; text-align: justify"> 
 O método GOMS foi escolhido por conta do contexto do nosso projeto, considerando que este é realizado sobre uma plataforma já desenvolvida e (considera-se que seja) conhecida pelo usuário. Desta forma, o que se busca aqui é uma análise básica das tarefas, afim de uma representação formal que seja usada para prever o desempenho e melhorar a eficácia de procedimentos frequentemente realizados. 
+</p>
 
 ## Objetivos escolhidos para análise
 
