@@ -3,26 +3,48 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
-A <b>usabilidade</b> pode ser definida como um conjunto de atributos relacionados aos objetivos que o produto deve almejar, para melhorar o uso do produto pelo usuário. Essas se baseiam em 6 pontos principais, os quais são: Eficácia, Eficiência, Segurança, Utilidade, learnability(ser fácil de aprender) e Memorability(ser fácil de lembrar).
+A usabilidade é o termo que trata de como os atributos do produto se
+apresentam para o usuário e como se dão suas interações. As metas de
+usabilidade por sua vez são os pilares que sustentam a qualidade dessa 
+interação, estipulando suas características e definindo critérios de 
+desempenho.
+
+Para validadar a usabilidade de um produto levamos em conta por 
+diversos aspectos deste, desde suas especificações gerais e as suas 
+implementações e para realizar estas avaliações as metas de usabilidade
+se dividem em 6 categorias, são elas eficácia, eficiência, segurança,
+utilidade, learnabilty e memorability.
 </p>
 
 ## 2. Metas de usabilidade
 
 <p style="text-indent: 20px; text-align: justify">
-Conforme previamente descrito as metas de usabilidade avaliarão a interação do usuário com o produto. Com isso as metas de usabilidade são dividas como:
+Visando entender melhor as metas de usabilidade, buscamos 
+conceituá-las de maneira sucinta, afim de esclarecer suas
+definições.
 </p>
 
-- Eficácia: descrita como "ser eficaz no uso", a qual se refere a quanto um produto desempenha o que é esperado dele.
+- Eficácia: a eficácia é a caracteristica apresentada por um produto que apresenta aquilo que ele foi definido
+para ser feito, se ele cumpre as especificações da aplicação após sua implementação. Por exemplo, um produto
+pode ser desenvolvido da maneira correta porém com a funcionalidade errada.
 
-- Eficiência: descrita como "ser eficiente no uso", a qual se refere a como o produto ajuda o usuário a realizar suas tarefas, buscando sempre simplificar essa realização.
+- Eficiência: esta por sua vez se responsabiliza por melhorar a experiência do usuário, visando realizar a tarefa
+proposta da melhor maneira possível, ou seja, além de ser eficaz o serviço deve ter características como rapidez,
+fluidez, etc. Por exemplo, um produto pode apresentar a funcionalidade correta, porém ser lento ou difícil de usar.
 
-- Segurança: descrita como "ser segura no uso", a qual se refere a como o produto protege o usuário de situações indesejadas e perigosas, cometa erros irreversíveis, realize tarefas erradas, ou que tenha que realizar tarefas onde tenha que aprender passos complexos para sua realização.
+- Segurança: buscar manter o usuário seguro dentro da plataforma, evitar e previnir que não haja erros irreversíveis
+por este é um bom exemplo. Visar entregar tarefas simples ou tutoriais para que o usuário esteja seguro do que faz 
+dentro da plataforma, proteger os dados do cliente, seriam boas práticas de segurança.
 
-- Utilidade: descrita como "ter boa utilidade", a qual se refere em como o produto oferece o tipo certo de funcionalidade, para que os usuários realizem suas tarefas e objetivos de forma eficiente.
+- Utilidade: visa "ter boa utilidade", se apresentar como ferramenta útil ao usuário, de modo que não entregue 
+apenas a tarefa especificada de maneira eficiente e eficaz, mas também de que o usuário sinta a necessidade de usá-la.
 
-- Learnability: descrita como "ser fácil de aprender", a qual se refere à facilidade de aprender a usar o produto, onde permite que os usuários consigam rapidamente aprender a realizar suas tarefas, sem a realização de muito esforço. 
+- Learnability: serve para tornar o produto mais "user friendly" de modo que o usuário consiga aprender a 
+utilizar a plataforma sem muito esforço, sem se cansarem e desistirem de realizar a tarefa.
 
-- Memorability: descrita como "ser fácil de lembrar como usar", a qual se refere à facilidade com que o usuário consiga lembrar de como utilizar o produto depois de já tê-lo aprendido, no caso, o usuário não precisa ter que reaprender a realizar as tarefas, que realizava anteriormente.
+- Memorability: se refere à facilidade de retorno do usuário ao produto sem precisar reaprender a realizar tarefas, 
+ou seja, as tarefas seguem uma lógica de raciocínio e são bem sequenciadas, deste modo o usuário só precisa se familiarizar
+com o produto uma vez.
 
 ### 2.1 Metas de usabilidade aplicadas ao Detran-DF
 
@@ -49,3 +71,4 @@ Conforme previamente descrito as metas de usabilidade avaliarão a interação d
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 01/09/2021 | Criação do documento | Matheus | 
+| 1.1 | 01/09/2021 | Revisão textual dos tópicos 1 e 2 | Arthur Sena | 
