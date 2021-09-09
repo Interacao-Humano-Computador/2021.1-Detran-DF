@@ -64,10 +64,10 @@ Definição das necessidades que a aplicação se propõe a sanar:
 <figcaption style="text-align: center">Figura 1: Imagem referente ao storyboard 1 de agendar um serviço no Detran-DF</figcaption>
 <figcaption style="text-align: center">Fonte: Autores</figcaption>
 
-<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a></figcaption>
+<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/b0f89850495e2961e0ca772880daa11c3ebc0213/docs/assets/DesignAvDe/nivel1/storyboards/storyboard1.png"> Link da imagem </a></figcaption>
 
 
-### 2.1 Storyboard 2 - Agendar Biometria
+### 2.2 Storyboard 2 - Agendar Biometria
 
 #### Preparo
 
@@ -110,10 +110,10 @@ Definição das necessidades que a aplicação se propõe a sanar:
 <figcaption style="text-align: center">Figura 2: Imagem referente ao storyboard 2 de agendar biometria no Detran-DF</figcaption>
 <figcaption style="text-align: center">Fonte: Autores</figcaption>
 
-<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a></figcaption>
+<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/b0f89850495e2961e0ca772880daa11c3ebc0213/docs/assets/DesignAvDe/nivel1/storyboards/storyboard2.png"> Link da imagem </a></figcaption>
 
 
-### 2.1 Storyboard 3 - Acessar Informação
+### 2.3 Storyboard 3 - Acessar Informação
 
 #### Preparo
 
@@ -156,10 +156,10 @@ Definição das necessidades que a aplicação se propõe a sanar:
 <figcaption style="text-align: center">Figura 3: Imagem referente ao storyboard 3 de consultar informação no Detran-DF</figcaption>
 <figcaption style="text-align: center">Fonte: Autores</figcaption>
 
-<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a></figcaption>
+<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/b0f89850495e2961e0ca772880daa11c3ebc0213/docs/assets/DesignAvDe/nivel1/storyboards/storyboard3.png"> Link da imagem </a></figcaption>
 
 
-### 2.1 Storyboard 4 - Solicitar CHN definitiva
+### 2.4 Storyboard 4 - Solicitar CHN definitiva
 
 #### Preparo
 
@@ -205,7 +205,7 @@ Definição das necessidades que a aplicação se propõe a sanar:
 <figcaption style="text-align: center">Figura 4: Imagem referente ao storyboard 4 de solicitação de CHN definitiva no Detran-DF</figcaption>
 <figcaption style="text-align: center">Fonte: Autores</figcaption>
 
-<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a></figcaption>
+<figcaption style="text-align: center"><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/b0f89850495e2961e0ca772880daa11c3ebc0213/docs/assets/DesignAvDe/nivel1/storyboards/storyboard4.png"> Link da imagem </a></figcaption>
 
 ## Referências bibliográficas
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
