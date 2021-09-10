@@ -25,3 +25,7 @@ nav:
     - Guia de Estilo: analiseRequisitos/guiaDeEstilo.md
     - Metas de usabilidade: analiseRequisitos/metas_de_usabilidade.md
     - Princípios Gerais do Projeto: analiseRequisitos/principiosGeraisProjeto.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Storyboards:
+        - Planejamento da Avaliação: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
