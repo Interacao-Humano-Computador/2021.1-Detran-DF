@@ -1,6 +1,6 @@
 site_name: IHC Grupo 9
 
-theme: 
+theme:
   name: material
   language: pt
   features:
@@ -11,17 +11,21 @@ theme:
 
 nav:
   - Início: index.md
-  - Atas de Reunião: 
-    - Reunião 1 - 17/08: reunioes/reuniao1.md
-    - Reunião 2 - 27/08: reunioes/reuniao2.md
+  - Atas de Reunião:
+      - Reunião 1 - 17/08: reunioes/reuniao1.md
+      - Reunião 2 - 27/08: reunioes/reuniao2.md
   - Planejamento: planejamento.md
   - Processo de Design:
-    - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
+      - Usabilidade de Mayhew: processoDeDesign/usabilidadeDeMayhew.md
   - Análise de Requisitos:
-    - Questionário: analiseRequisitos/questionario.md
-    - Perfil do Usuário e Personas: analiseRequisitos/perfil.md
-    - Análise Hierárquica de Tarefas: analiseRequisitos/analiseHierarquicaTarefas.md
-    - G.O.M.S: analiseRequisitos/metodoGOMS.md
-    - Guia de Estilo: analiseRequisitos/guiaDeEstilo.md
-    - Metas de usabilidade: analiseRequisitos/metas_de_usabilidade.md
-    - Princípios Gerais do Projeto: analiseRequisitos/principiosGeraisProjeto.md
+      - Questionário: analiseRequisitos/questionario.md
+      - Perfil do Usuário e Personas: analiseRequisitos/perfil.md
+      - Análise Hierárquica de Tarefas: analiseRequisitos/analiseHierarquicaTarefas.md
+      - G.O.M.S: analiseRequisitos/metodoGOMS.md
+      - Guia de Estilo: analiseRequisitos/guiaDeEstilo.md
+      - Metas de usabilidade: analiseRequisitos/metas_de_usabilidade.md
+      - Princípios Gerais do Projeto: analiseRequisitos/principiosGeraisProjeto.md
+  - Design, Avaliação e Desenvolvimento:
+      - Nível 1:
+          - Storyboards:
+              - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards.md
