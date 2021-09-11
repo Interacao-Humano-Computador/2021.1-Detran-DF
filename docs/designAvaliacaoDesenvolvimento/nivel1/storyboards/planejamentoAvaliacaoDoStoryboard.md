@@ -81,7 +81,31 @@ previamente criadas.
 
 ### 6.3 Roteiro de Perguntas
 
+<p style="text-indent: 20px; text-align: justify">
+Inicialmente, o avaliador irá descrever o procedimento da entrevista e solicitará a assinatura do termo de
+consentimento. Caso a assinatura seja positiva, iniciará a entrevista por meio do roteiro abaixo.
+</p>
+
+| Número |                                          Pergunta                                           |                       Possível Resposta                        |
+| :----: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
+|   1    |     Observando os dois primeiros storyboards, você observa uma relação com a realidade?     | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+|  1.1   |   Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
+|   2    |         Observando o terceiro storyboard, você observa uma relação com a realidade?         | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+|  2.1   |   Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
+|   3    |          Observando o último storyboard, você observa uma relação com a realidade?          | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+|  3.1   |   Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
+|   4    |       Você realmente acha que o Detran DF ajuda o usuário nessa situação apresentada?       |                      Pergunta discursiva                       |
+|   5    |      Qual dos Storyboards você acha que mais condiz com a realidade do site Detran DF       |                      Pergunta discursiva                       |
+|   6    | O que você pensa sobre a solução do site Detran DF apresentada no Storyboard? Ela é eficaz? |                      Pergunta discursiva                       |
+|   7    |      Você imagina algum outro cenário que poderia ser representado pelos Storyboards?       |                      Pergunta discursiva                       |
+
 ## 7. Conclusão
+
+<p style="text-indent: 20px; text-align: justify">
+Com a finalização do documento espera-se ter esclarecido todas as fases do procedimento
+ao leitor e que o que foi apresentado sirva de orientação suficiente para as atividades em 
+questão.
+</p>
 
 ## Referências bibliográficas
 
@@ -93,3 +117,4 @@ previamente criadas.
 | :----: | :--------: | :------------------------------------------------: | :---------: |
 |  1.0   | 09/09/2021 | Criação do Planejamento da Avaliação do Storyboard | Arthur Sena |
 |  1.1   | 11/09/2021 |       Adição dos Tópicos 3, 4, 5, 6.1 e 6.2        | Arthur Sena |
+|  1.2   | 11/09/2021 |             Adição dos Tópicos 6.3 e 7             | Arthur Sena |
