@@ -30,3 +30,5 @@ nav:
           - Storyboards:
               - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards.md
               - Planejamento da Avaliação: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
+          - Análise de Tarefas:
+              - Planejamento da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/taskAnalisysPlanning.md
