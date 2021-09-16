@@ -20,7 +20,7 @@ utilidade, learnabilty e memorability.
 
 <p style="text-indent: 20px; text-align: justify">
 Visando entender melhor as metas de usabilidade, buscamos 
-conceituá-las de maneira sucinta, afim de esclarecer suas
+conceituá-las de maneira sucinta, a fim de esclarecer suas
 definições.
 </p>
 
