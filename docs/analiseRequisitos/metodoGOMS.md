@@ -9,7 +9,7 @@ O método propõe um conjunto de modelos chamado GOMS (<b>Goals, Operators, Meth
 ## 2. A escolha do método
 
 <p style="text-indent: 20px; text-align: justify"> 
-O método GOMS foi escolhido por conta do contexto do nosso projeto, considerando que este é realizado sobre uma plataforma já desenvolvida e (considera-se que seja) conhecida pelo usuário. Desta forma, o que se busca aqui é uma análise básica das tarefas, afim de uma representação formal que seja usada para prever o desempenho e melhorar a eficácia de procedimentos frequentemente realizados. 
+O método GOMS foi escolhido por conta do contexto do nosso projeto, considerando que este é realizado sobre uma plataforma já desenvolvida e (considera-se que seja) conhecida pelo usuário. Desta forma, o que se busca aqui é uma análise básica das tarefas, a fim de uma representação formal que seja usada para prever o desempenho e melhorar a eficácia de procedimentos frequentemente realizados. 
 </p>
 
 ## 3. Objetivos escolhidos para análise
