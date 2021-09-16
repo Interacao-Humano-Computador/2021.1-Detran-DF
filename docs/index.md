@@ -46,6 +46,6 @@
 <iframe 
   width="100%"
   height="500px"
-  src="https://www.youtube.com/watch?v=76GOmEKuJEI"
+  src="https://www.youtube.com/embed/76GOmEKuJEI"
   style="margin-bottom: 2rem;"
 ></iframe>
