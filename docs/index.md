@@ -47,5 +47,5 @@
   width="100%"
   height="500px"
   src="https://www.youtube.com/watch?v=76GOmEKuJEI"
-  style="marginbottom: 2rem;"
+  style="margin-bottom: 2rem;"
 ></iframe>
