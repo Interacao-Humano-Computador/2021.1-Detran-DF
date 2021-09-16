@@ -18,7 +18,7 @@ Um storyboard deve ter:
 ## 2. Resultados
 
 <p style="text-indent: 20px; text-align: justify"> 
-A seguir encontra-se storyboards desenvolvidos a partir da análise de tarefas.
+A seguir encontra-se storyboards criados com a ferramenta <a target="blank" href="https://www.storyboardthat.com/pt">storyboard that</a> desenvolvidos a partir da análise de tarefas.
 </p>
 
 ### 2.1 Storyboard 1 - Agendar Serviço

@@ -1,10 +1,8 @@
 # 1. Descrição
 
-<p style="font-size: 16px; text-align: justify; margin-bottom: 2rem;">
+<p style="text-indent: 20px; text-align: justify">
 Nesta reunião foi discutido o feedback recebido na apresentação da primeira entrega e feita a divisão das atividades para a entrega seguinte (Análise de Requisitos I).
 </p>
-
-<center>
 
 |    Integrantes    |      Atividades      |
 | :--------: | :-------------: |
@@ -12,7 +10,6 @@ Nesta reunião foi discutido o feedback recebido na apresentação da primeira e
 | Carlos, Sara e Matheus | Criar o documento de Análise de Tarefas |
 | Arthur e Marcos | Realizar o levantamento do Perfil e criar as Personas |
 
-</center>
 
 ## Versionamento
 

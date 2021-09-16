@@ -8,7 +8,7 @@
 - Matheus Pinheiro - <a href="http://www.detran.df.gov.br/" target="blank">Detran DF</a>
 - Sara Campos - <a href="https://letterboxd.com/" target="blank">Letterboxd</a>
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 O grupo discutiu qual seria a melhor opção dentro das avaliadas individualmente
 e chegou num consenso de avaliar o site do Detran na disciplina.
 A avaliação individual do aluno Matheus Pinheiro pode ser vista 
@@ -19,7 +19,7 @@ A avaliação individual do aluno Matheus Pinheiro pode ser vista
 
 ### 2.1 Cronograma de Atividades
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Cronograma de atividades em grupo da disciplina baseado no plano de ensino, sujeito a alterações.
 </p>
 
@@ -40,7 +40,7 @@ Cronograma de atividades em grupo da disciplina baseado no plano de ensino, suje
 
 ### 2.2 Divisão de Atividades
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Divisão de atividades para cada entrega, atualizadas confome são discutidas.
 </p>
 
@@ -78,7 +78,7 @@ Divisão de atividades para cada entrega, atualizadas confome são discutidas.
 
 ### 2.3 Disponibilidade dos Integrantes
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Tabela criada com o intuito de otimizar a coordenação das atividades em grupo onde 
 cada integrante informou em qual horário está livre.
 </p>
@@ -94,25 +94,25 @@ cada integrante informou em qual horário está livre.
 
 ### 3.1 Extreme Programming (XP)
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Para o projeto esta metodologia será usada principalmente por sua categoria ágil e por seus valores condizentes com o contexto do projeto, contexto esse de criação de documentos sem desenvolvimento de software, sendo os valores: <b>Comunicação</b>, <b>Simplicidade</b>, <b>Feedback</b>, <b>Coragem</b> e <b>Respeito</b> [1].
 </p>
 
 ### 3.2 SCRUM
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Por possuir muitas entregas e se tratar de um projeto ágil em que o trabalho é dividido iterativamente, o uso de propriedades do SCRUM como Plannings, Sprints e Reviews irá ser adotado pela equipe [2].
 </p>
 
 ### 3.2 Controle de atividades
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 De forma a manter a rastreabilidade e organização, todas as tarefas a serem feitas estarão disponiveis em forma de <a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/issues" target="_blank">Issues</a> no repositório do projeto, cada uma será composta pelo autor que ira realizar a atividade, descrição da tarefa e por ventura comentários sobre a sua realizaçao.
 </p>
 
 ### 3.3 Políticas de Branch
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Toda branch criada seguirá um padrão para a melhor organização do projeto. Por se tratar de um projeto baseado em documentos, terá apenas um tipo de nomenclatura de branch. Todas as branchs devem ser criadas a partir da <b>master</b> e devem estar nomeadas da seguinte maneira:
 </p>
 
@@ -120,13 +120,13 @@ Toda branch criada seguirá um padrão para a melhor organização do projeto. P
 iX_nome_documento 
 Exemplo: i04_planejamento_metodologia
 ```
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Sendo i indicando que o número X se trata de uma Issue seguido pelo nome do documento que será desenvolvida na branch. Em ocasiões em que não se está trabalhando com nenhum documento em específico, então deve-se colocar o nome da issue correspondente.
 </p>
 
 ### 3.4 Políticas de Commits
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Os commits devem ser feitos de maneira clara e objetiva respeitando os padrões comentados a seguir: </p>
 </p>
 
@@ -138,7 +138,7 @@ Os commits devem ser feitos de maneira clara e objetiva respeitando os padrões 
 
  Exemplo: ` #4 adding planning `
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 Caso o commit contenha alterações realizadas por mais de uma pessoa deverá ser feito assim:
 </p>
 
@@ -149,7 +149,7 @@ Caso o commit contenha alterações realizadas por mais de uma pessoa deverá se
 Co-authored-by: John Cenna <peacemaker@gmail.com>
 ```
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify">
 <b>Observação:</b> O caracter '#' representa, por padrão, um comentário na mensagem de commit. Para evitar problemas basta digitar o comando: `git config --local core.commentChar auto`
 </p>
 

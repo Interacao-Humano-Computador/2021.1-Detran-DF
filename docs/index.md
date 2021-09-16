@@ -6,9 +6,9 @@
 
 <h1 style="font-weight: 500; margin-bottom: 0;">Sobre</h1>
 
-<p style="font-size: 16px; text-align: justify;">Repositório do grupo 09 - Detran DF, destinado ao desenvolvimento da documentação do projeto final da disciplina de Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2021/1.</p>
+<p style="text-indent: 20px; text-align: justify">Repositório do grupo 09 - Detran DF, destinado ao desenvolvimento da documentação do projeto final da disciplina de Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2021/1.</p>
 
-<p style="font-size: 16px; text-align: justify;">O Detran é um órgão que tem como função, administrar e fiscalizar o trânsito de veículos assim como a formação de seus condutores. O órgão público desenvolve essas atividades tendo como foco a ordem em vias públicas, paralelamente garantindo a segurança dos condutores de automóveis e pedestres.</p>
+<p style="text-indent: 20px; text-align: justify">O Detran é um órgão que tem como função, administrar e fiscalizar o trânsito de veículos assim como a formação de seus condutores. O órgão público desenvolve essas atividades tendo como foco a ordem em vias públicas, paralelamente garantindo a segurança dos condutores de automóveis e pedestres.</p>
 
 <h1 style="font-weight: 500; margin: 2rem 0;">Integrantes</h1>
 
@@ -50,7 +50,7 @@
   style="margin-bottom: 2rem;"
 ></iframe>
 
-<h1 style ="font-weight:500;margin: 2rem 0;">Entrega 4 - Planejamento da avaliação da análise de requistos e storyboards</h1>
+<h1 style ="font-weight:500;margin: 2rem 0;">Entrega 4 - Planejamento da avaliação da análise de tarefas e storyboards</h1>
 
 <iframe 
   width="100%"
