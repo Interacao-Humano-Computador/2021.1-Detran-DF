@@ -1,23 +1,23 @@
 ## 1. Introdução
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 O storyboard é um protótipo de baixa fidelidade e por isso demonstra grandes qualidades quanto a velocidade
 de desenvolvimento, custos e complexidade. Por sua simplicidade serve para se comunicar com um cliente de 
 modo a realizar validações do produto, após o procedimento avalia-se os resultados em busca de alinhar os
-desenjos e perspectivas do cliente com a equipe de produção e design.
+desejos e perspectivas do cliente com a equipe de produção e design.
 </p>
 
 ## 2. Objetivo
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 Partindo do que foi previamente destacado, chegamos então no desenvolvimento deste documento, que auxiliará
-todo o processo descrito. O intuito é explicitar as metodologias escolhidas e os processos envolidos afim
+todo o processo descrito. O intuito é explicitar as metodologias escolhidas e os processos envolvidos a fim
 de melhor descrever aos interessados (avaliadores, usuários, desenvolvedores, etc.).
 </p>
 
 ## 3. Método selecionado
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 Após analisar os storyboards criados o grupo decidiu realizar entrevistas para a avaliação do que foi 
 desenvolvido, já que este método nos permite compreender o ponto de vista dos usuários, assim como
 suas expectativas quanto às soluções apresentadas. Levando em conta a facilidade de alteração dos 
@@ -27,7 +27,7 @@ as mudanças necessárias com baixo custo.
 
 ## 4. Ambiente de avaliação
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 Em busca de manter a rastreabilidade da avaliação a equipe irá buscar realizar gravações das entrevistas.
 Quanto aos encontros com os entrevistados o intuito é utilizar a melhor plataforma para ambos, por isso
 a equipe tem em mente as opções: Google Meet, Microsoft Teams, Discord, estando disposta a se adaptar
@@ -36,7 +36,7 @@ a escolha do participante.
 
 ## 5. Termo de consentimento
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 
 O seguinte termo de consentimento deve ser apresentado ao voluntário para que este o aceite e esteja ciente do funcionamento das atividades e ao o que se destina a coleta de dados a ser realizada.
 <br/><br/>
@@ -65,7 +65,7 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
 
 ### 6.1 Avaliação dos Storyboards e Convidados
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 Para definir os convidados, primeiramente será feita uma avaliação dos storyboards para
 primeiro entender se há relação entre o que foi desenvolvido e os usuários, tendo em 
 vista possíveis mudanças.
@@ -73,7 +73,7 @@ vista possíveis mudanças.
 
 ### 6.2 Participantes
 
-<p style="text-align: justify;">
+<p style="text-indent: 20px; text-align: justify;">
 A definição dos participantes levará em conta os perfis de usuários já traçados pela 
 equipe em fases anteriores e tentará buscar por pessoas parecidas com as personas
 previamente criadas.
@@ -103,7 +103,7 @@ consentimento. Caso a assinatura seja positiva, iniciará a entrevista por meio 
 
 <p style="text-indent: 20px; text-align: justify">
 Com a finalização do documento espera-se ter esclarecido todas as fases do procedimento
-ao leitor e que o que foi apresentado sirva de orientação suficiente para as atividades em 
+ao leitor e que o conteúdo apresentado sirva de orientação suficiente para as atividades em 
 questão.
 </p>
 
