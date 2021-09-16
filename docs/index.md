@@ -40,3 +40,12 @@
   src="https://www.youtube.com/embed/ANi19pvG6_M"
   style="margin-bottom: 2rem;"
 ></iframe>
+
+<h1 style ="font-weight:500;margin: 2rem 0;">Entrega 3 - Planejamento da avaliação da análise de requistos e storyboards</h1>
+
+<iframe 
+  width="100%"
+  height="500px"
+  src="https://www.youtube.com/watch?v=76GOmEKuJEI"
+  style="marginbottom: 2rem;"
+></iframe>
