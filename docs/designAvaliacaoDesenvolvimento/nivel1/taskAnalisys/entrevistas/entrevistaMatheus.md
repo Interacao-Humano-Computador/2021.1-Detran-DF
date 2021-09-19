@@ -1,6 +1,6 @@
-## Entrevista - Elias
+## Entrevista - Matheus
 <p style="text-indent: 20px; text-align: justify">
-O entrevistado é o <b>Mathues Henrique de Almeida Souza</b>, estudante de Análise e desenvolvimento de sistemas na UFG. A entrevista foi realizada pela plataforma Microsoft teams, no dia 19 de setembro de 2021, seguindo o roteiro estabelecido no planejamento.
+O entrevistado é o <b>Matheus Henrique de Almeida Souza</b>, estudante de Análise e desenvolvimento de sistemas na UFG. A entrevista foi realizada pela plataforma Microsoft teams, no dia 19 de setembro de 2021, seguindo o roteiro estabelecido no planejamento.
 </p>
 
 
