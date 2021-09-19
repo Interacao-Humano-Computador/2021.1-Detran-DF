@@ -23,13 +23,13 @@ Após procura por possíveis entrevistados o grupo encontrou 3 voluntários que 
 ### 2.2. Ambiente de avaliação
 
 <p style="text-indent: 20px; text-align: justify"> 
-De acordo com o que foi documentado na preparação para este processo de avaliação as entrevistas foram realizadas em ambiente virtual de chamadas online, sendo necessário então que os entrevistados possuissem:
+De acordo com o que foi documentado na preparação para este processo de avaliação as entrevistas foram realizadas em ambiente virtual de chamadas online, sendo necessário então que os entrevistados possuíssem:
 </p>
 - Conexão com a internet, para uso do navegador;
 - Computador para uso exclusivo, com uso do teclado e mouse;
 - Microfone;
 <p style="text-indent: 20px; text-align: justify"> 
-O grupo possuia opções de plataformas ideais para realização das entrevistas, estas foram apresentadas aos voluntários que escolheram as de suas preferências (Ex.: Microsoft Teams, Discord, Google Meet).
+Foram apresentadas opções de plataformas de reunião online ideais para a realização da entrevista, de forma que os voluntários pudessem escolher uma de sua preferência (Ex.: Microsoft Teams, Discord, Google Meet).
 </p>
 
 ## 3. Sumário dos dados coletados
@@ -39,7 +39,7 @@ As entrevistas realizadas pelo grupo podem ser acessadas pelo guia lateral da p�
 </p>
 - Entrevista com Elias Yousef [link](./entrevistas/entrevistaElias.md)
 - Entrevista com Matheus Souza: [link](./entrevistas/entrevistaMatheus.md)
-- Entrevista com Marília Florêncio: [link](./entrevistas/entrevistaMarília.md)
+- Entrevista com Marília Florêncio: [link](./entrevistas/entrevistaMarilia.md)
 
 ## 4. Relato dos resultados
 
@@ -78,7 +78,7 @@ Os principais pontos abordados nas entrevistas foram os seguintes:
 ## 5. Conclusão
 
 <p style="text-indent: 20px; text-align: justify"> 
-Após receber e ouvir os relatos dos entrevistados o grupo percebeu não muita necessidade de atualização do que já havia sido levantado pelo grupo, tendo em vista que o ponto mais levantado foi os passos intermediários na realização das tarefas e de redirecionamento que causam possíveis ambiguidades na utilização da plataforma.
+Após receber e ouvir os relatos dos entrevistados o grupo percebeu não muita necessidade de atualização do que já havia sido levantado pelo grupo, tendo em vista que o problema mais relatado na realização das tarefas foi a existência de passos intermediários e redirecionamentos que causam possíveis ambiguidades.
 </p>
 
 ## Referências bibliográficas

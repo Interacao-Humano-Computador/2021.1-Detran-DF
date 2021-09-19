@@ -28,15 +28,16 @@ nav:
   - Design, Avaliação e Desenvolvimento:
       - Nível 1:
           - Análise de Tarefas:
-              - Planejamento da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/taskAnalisysPlanning.md
-              - Relato dos Resultados da Avaliação: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/resultadosAvaliacao.md
+              - Planejamento da Avaliação da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/taskAnalisysPlanning.md
+              - Relato de Resultados da Avaliação da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/resultadosAvaliacao.md
               - Entrevistas:
                   - Elias Yousef: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaElias.md
                   - Matheus Henrique: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMatheus.md
                   - Marília Florêncio: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMarilia.md
           - Storyboards:
               - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards.md
-              - Planejamento da Avaliação: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
+              - Planejamento da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
+              - Relato de Resultados da Avaliação dos Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/relatoResultadosStoryboards.md
               - Entrevistas:
                   - Elias Yousef: designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaElias.md
                   - Matheus Henrique: designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaMatheus.md
