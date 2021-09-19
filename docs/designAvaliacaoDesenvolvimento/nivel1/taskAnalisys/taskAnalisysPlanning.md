@@ -1,4 +1,4 @@
-# Planejamento de Avaliação da Análise de tarefas
+# Planejamento da Avaliação da Análise de Tarefas
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify">
