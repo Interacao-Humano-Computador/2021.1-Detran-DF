@@ -29,9 +29,17 @@ nav:
       - Nível 1:
           - Análise de Tarefas:
               - Planejamento da Análise de Tarefas: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/taskAnalisysPlanning.md
+              - Entrevistas:
+                  - Elias Yousef: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaElias.md
+                  - Matheus Henrique: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMatheus.md
+                  - Marília Florêncio: designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMarilia.md
           - Storyboards:
               - Storyboards: designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards.md
               - Planejamento da Avaliação: designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard.md
+              - Entrevistas:
+                  - Elias Yousef: designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaElias.md
+                  - Matheus Henrique: designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaMatheus.md
+                  - Marília Florêncio: designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaMarilia.md
       - Nível 2:
           - Protótipo de Papel:
               - Planejamento da Avaliação do Protótipo de Papel: designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/planejamentoAvaliacaoPrototipoPapel.md

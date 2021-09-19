@@ -57,7 +57,6 @@ Ou, caso discorde:
 <br/><br/>
 • Eu, [nome do entrevistado] não consinto com a sua realização.
 <br/><br/>
-O termo de consentimento está acessível através deste <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180030345_aluno_unb_br/Ee-1CRZ2KSlOiYU3t7xZ3EQBUsNCAuskHScyKN2hXCLd0w?e=nG8gu3">link</a>.
 
 </p>
 
