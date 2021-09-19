@@ -14,12 +14,12 @@
 
 <center>
 
-| Atividade | Tarefas |
-|---------|-------|
-|Preparação | - Definição do quais tarefas os participantes irão realizar <br/> - Definir perfil dos usuários e chamá-los <br/> - Criar protótipos de papel <br/> - Executar teste piloto|
-|Coleta de dados e Interpretação | - Avaliador acompanhar todos os usuários realizarem as tarefas propostas <br/> - Avaliador listar problemas encontrados <br/> - Avaliador refinar protótipos para resolver problemas simples |
-|Consolidação dos resultados | - Priorizar a correção dos problemas não resolvidos sugerir correções |
-|Relato dos resultados | - Relatar problemas encontrados e sugerir correções |
+| Atividade                       | Tarefas                                                                                                                                                                                      |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparação                      | - Definição do quais tarefas os participantes irão realizar <br/> - Definir perfil dos usuários e chamá-los <br/> - Criar protótipos de papel <br/> - Executar teste piloto                  |
+| Coleta de dados e Interpretação | - Avaliador acompanhar todos os usuários realizarem as tarefas propostas <br/> - Avaliador listar problemas encontrados <br/> - Avaliador refinar protótipos para resolver problemas simples |
+| Consolidação dos resultados     | - Priorizar a correção dos problemas não resolvidos sugerir correções                                                                                                                        |
+| Relato dos resultados           | - Relatar problemas encontrados e sugerir correções                                                                                                                                          |
 
 </center>
 <h6 align = "center">Tabela 1: Atividade e tarefas do método Protótipo de Papel com informações parafraseadas do livro (Interação Humano-Computador e Experiência do usuário. Autopublicação) página 304.</h6>
@@ -47,7 +47,6 @@ Ou, caso discorde:
 <br/><br/>
 • Eu, [nome do entrevistado] não consinto com a sua realização.
 <br/><br/>
-O termo de consentimento está acessível através deste <a href="https://unbbr-my.sharepoint.com/:b:/g/personal/180030345_aluno_unb_br/Ee-1CRZ2KSlOiYU3t7xZ3EQBUsNCAuskHScyKN2hXCLd0w?e=nG8gu3">link</a>.
 
 </p>
 
@@ -57,7 +56,7 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
 
 - <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3._resultados">Consultar Débitos Veículo</a>
 - <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#hta03:-solicitar-cnh-definitiva">Solicitar CHN Definitiva</a>
-- <a target="blank"href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3._resultados">Acessar informações</a>
+- <a target="blank"href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3.\_resultados">Acessar informações</a>
 
 ### 4.2 Perfil dos participantes
 
@@ -91,7 +90,6 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
 <h6 align = "center">Figura 4: Quarta sequência Protótipo de Papel Consultar Débito Veículo. </h6>>
 <h6 align = "center">Fonte: Autor</h6>>
 
-
 #### 4.4.2 Tarefa Solicitar CHN Definitiva
 
 <img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/home.png" style="object-fit: contain;" alt="Detran DF">
@@ -101,7 +99,6 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
 <img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/formulario_cnh.png" style="object-fit: contain;" alt="Detran DF">
 <h6 align = "center">Figura 2: Segunda sequência Protótipo de Papel Solicitar CHN Definitiva.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
-
 
 #### 4.4.3 Tarefa Acessar informações
 
@@ -117,7 +114,6 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
 <h6 align = "center">Figura 3: Terceira sequência Protótipo de Papel Acessar informações.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
 
-
 ## 5. Coleta de Dados e Interpretação
 
 <p style="text-indent: 20px; text-align: justify">
@@ -128,17 +124,16 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
     Ao iniciar, durante e ao final da atividade o participante será convidado a responder algumas perguntas com o objetivo de coletar dados. Seguem as perguntas:
 </p>
 
-| Número | Pergunta | Possível Resposta |
-|--------|----------|-------------------|
-| 1 | Defina sua familiaridade com o site Detran-DF dando um valor de 1 a 5, sendo "1" Extremamente desabituado e "5" Familiarizado? | - 1- Extremamente desabituado <br/> - 2- Desabituado <br/> - 3- Neutro <br/> - 4- Pouco habituado <br/>- 5- Extremamente familiarizado |
-| 2 | Você conseguiu realizar todas as tarefas propostas? | - Sim <br/> - Não <br/> - Inconclusivo <br/> |
-| 3 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade encontrada na execução das tarefas, sendo "1" extremamente complicado e "5" trivial? | - 1- Extremamente complicado <br/> - 2- Complicado <br/> - 3- Neutro <br/> - 4- Fácil <br/> - 5- Trivial <br/> |
-| 4 | Em alguma etapa você se sentiu confuso ou cometeu algum erro? | - Sim <br/> - Não <br/> - Inconclusivo <br/> |
-| 5 | O que pensou ao realizar as tarefas? Possui algum comentário ou observação para fazer? | - Discursiva |
+| Número | Pergunta                                                                                                                                              | Possível Resposta                                                                                                                      |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Defina sua familiaridade com o site Detran-DF dando um valor de 1 a 5, sendo "1" Extremamente desabituado e "5" Familiarizado?                        | - 1- Extremamente desabituado <br/> - 2- Desabituado <br/> - 3- Neutro <br/> - 4- Pouco habituado <br/>- 5- Extremamente familiarizado |
+| 2      | Você conseguiu realizar todas as tarefas propostas?                                                                                                   | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
+| 3      | Em uma escala de 1 a 5, qual valor você daria para a dificuldade encontrada na execução das tarefas, sendo "1" extremamente complicado e "5" trivial? | - 1- Extremamente complicado <br/> - 2- Complicado <br/> - 3- Neutro <br/> - 4- Fácil <br/> - 5- Trivial <br/>                         |
+| 4      | Em alguma etapa você se sentiu confuso ou cometeu algum erro?                                                                                         | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
+| 5      | O que pensou ao realizar as tarefas? Possui algum comentário ou observação para fazer?                                                                | - Discursiva                                                                                                                           |
 
 <h6 align = "center">Tabela 2: Perguntas a serem realizadas na atividade de consolidação e interpretação dos dados.</h6>
 <h6 align = "center">Fonte: Autor.</h6>
-
 
 ## 6. Consolidação dos resultados
 
@@ -152,30 +147,31 @@ O termo de consentimento está acessível através deste <a href="https://unbbr-
     Nesta atividade será informado aos participantes os seguintes tópicos:
 </p>
 
-- Objetivos da avaliação; 
-- Descrição do método de prototipação de papel; 
-- Número e perfil de avaliadores e participantes; 
-- Tarefas executadas; 
-- Lista de problemas de usabilidade corrigidos: 
-    - Local onde ocorreu; 
-    - Fatores prejudicados; 
-    - Descrição e justificativa; 
-    - Correção realizada; 
-    - Indicação se o problema voltou a acontecer. 
-- Lista de problemas não corrigidos: 
-    - Local onde ocorreu; 
-    - Fatores prejudicados; 
-    - Descrição e justificativa; 
-    - Prioridade para correção; 
-    - Sugestão de correção; 
-    - Indicações de partes do sistema que podem ser mais bem elaboradas. 
+- Objetivos da avaliação;
+- Descrição do método de prototipação de papel;
+- Número e perfil de avaliadores e participantes;
+- Tarefas executadas;
+- Lista de problemas de usabilidade corrigidos:
+  - Local onde ocorreu;
+  - Fatores prejudicados;
+  - Descrição e justificativa;
+  - Correção realizada;
+  - Indicação se o problema voltou a acontecer.
+- Lista de problemas não corrigidos:
+  - Local onde ocorreu;
+  - Fatores prejudicados;
+  - Descrição e justificativa;
+  - Prioridade para correção;
+  - Sugestão de correção;
+  - Indicações de partes do sistema que podem ser mais bem elaboradas.
+
 ## Referências bibliográficas
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 ## Versionamento
 
-| Versão | Data | Modificação| Autor |
-|--|--|--|--|
-| 1.0 | 16/09/2021 | Criação do documento | Carlos |
-| 1.1 | 16/09/2021 | Adição dos resultados | Carlos |
+| Versão | Data       | Modificação           | Autor  |
+| ------ | ---------- | --------------------- | ------ |
+| 1.0    | 16/09/2021 | Criação do documento  | Carlos |
+| 1.1    | 16/09/2021 | Adição dos resultados | Carlos |
