@@ -152,18 +152,18 @@ Ou, caso discorde:
 - Número e perfil de avaliadores e participantes;
 - Tarefas executadas;
 - Lista de problemas de usabilidade corrigidos:
-  - Local onde ocorreu;
-  - Fatores prejudicados;
-  - Descrição e justificativa;
-  - Correção realizada;
-  - Indicação se o problema voltou a acontecer.
+    - Local onde ocorreu;
+    - Fatores prejudicados;
+    - Descrição e justificativa;
+    - Correção realizada;
+    - Indicação se o problema voltou a acontecer.
 - Lista de problemas não corrigidos:
-  - Local onde ocorreu;
-  - Fatores prejudicados;
-  - Descrição e justificativa;
-  - Prioridade para correção;
-  - Sugestão de correção;
-  - Indicações de partes do sistema que podem ser mais bem elaboradas.
+    - Local onde ocorreu;
+    - Fatores prejudicados;
+    - Descrição e justificativa;
+    - Prioridade para correção;
+    - Sugestão de correção;
+    - Indicações de partes do sistema que podem ser mais bem elaboradas.
 
 ## Referências bibliográficas
 
