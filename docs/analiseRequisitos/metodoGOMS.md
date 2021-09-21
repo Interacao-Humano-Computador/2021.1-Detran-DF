@@ -15,7 +15,7 @@ O método GOMS foi escolhido por conta do contexto do nosso projeto, considerand
 ## 3. Objetivos escolhidos para análise
 
 ### 3.1 Consultar parcelamento de dívida ativa
-  - **Goal 0**: Acessar no menu de [Detran-DF](detran.df.gov.br) a opção "Dívida Ativa"
+  - **Goal 0**: Acessar no menu de [Detran-DF](https://detran.df.gov.br) a opção "Dívida Ativa"
     - OP 0.1 → Deslocar o mouse até o menu ao centro da página inicial carregada
     - OP 0.2 → Deslizar o mouse em cima de "Serviços"
     - OP 0.3 → Deslizar o mouse em cima de "Informações"
