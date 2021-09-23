@@ -72,47 +72,9 @@ Ou, caso discorde:
 
 ### 4.4 Protótipos de Papel
 
-#### 4.4.1 Tarefa Consultar Débito Veículo
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/home.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 1: Primeira sequência Protótipo de Papel Consultar Débito Veículo.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/portal.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 2: Segunda sequência Protótipo de Papel Consultar Débito Veículo.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/formulario_debito.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 3: Terceira sequência Protótipo de Papel Consultar Débito Veículo.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/debito.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 4: Quarta sequência Protótipo de Papel Consultar Débito Veículo. </h6>>
-<h6 align = "center">Fonte: Autor</h6>>
-
-#### 4.4.2 Tarefa Solicitar CHN Definitiva
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/home.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 1: Primeira sequência Protótipo de Papel Solicitar CHN Definitiva.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/formulario_cnh.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 2: Segunda sequência Protótipo de Papel Solicitar CHN Definitiva.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-#### 4.4.3 Tarefa Acessar informações
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/home.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 1: Primeira sequência Protótipo de Papel Acessar informações.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/selecao.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 2: Segunda sequência Protótipo de Papel Acessar informações.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
-
-<img width="100% !important" src="../../../../assets/designAvaliacaoDesenvolvimento/nivel2/prototipoPapel/informacao.png" style="object-fit: contain;" alt="Detran DF">
-<h6 align = "center">Figura 3: Terceira sequência Protótipo de Papel Acessar informações.</h6>
-<h6 align = "center">Fonte: Autor.</h6>
+<p style="text-indent: 20px; text-align: justify">
+    Os protótipos de papel criados podem ser acessados por este <a href="../prototiposDePapel/#2.resultados" target="_blank">link</a>
+</p>
 
 ## 5. Coleta de Dados e Interpretação
 
@@ -175,3 +137,4 @@ Ou, caso discorde:
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 16/09/2021 | Criação do documento  | Carlos |
 | 1.1    | 16/09/2021 | Adição dos resultados | Carlos |
+| 1.2    | 23/09/2021 | Adicionando protótipos de papel em outro documento | Carlos |
