@@ -33,4 +33,5 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 | Versão | Data       | Modificação           | Autor  |
 | ------ | ---------- | --------------------- | ------ |
-| 1.0    | 16/09/2021 | Criação do documento  | Carlos |
+| 1.0    | 28/09/2021 | Criação do documento  | Carlos |
+| 1.1    | 28/09/2021 | Adição da Introdução  | Carlos |
