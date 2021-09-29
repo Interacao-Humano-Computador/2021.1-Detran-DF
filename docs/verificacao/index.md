@@ -22,8 +22,10 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 <a href="../verificacao/questionario" target="_blank">Verificação 01: Questionário</a>
 
+
 ### 3.2 Verificação do Design, avaliação e desenvolvimento
 
+<a href="../verificacao/planejamentoAvaliacaoDoStoryboard" target="_blank">Verificação 03: Planejamento e Relato da Avaliação dos Storyboards</a>
 
 ## Referências bibliográficas
 > SERRANO, Maurício; SERRANO, Milene; <b>Requisitos - Aula 23</b>
