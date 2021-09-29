@@ -54,4 +54,4 @@ Concluí-se do checklist que o artefato do Questionário necessita de revisões 
 | Versão | Data       | Modificação           | Autor  |
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 28/09/2021 | Criação do documento  | Carlos |
-| 1.1    | 28/09/2021 | Adição dos Resultados e Conclusão | Carlos 
+| 1.1    | 28/09/2021 | Adição dos Resultados e Conclusão | Carlos |
