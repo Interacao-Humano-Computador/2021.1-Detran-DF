@@ -56,4 +56,4 @@ Concluí-se do checklist que o artefato de Metas de Usabilidade necessita de rev
 | Versão | Data       | Modificação           | Autor  |
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 28/09/2021 | Criação do documento  | Carlos |
-| 1.1    | 28/09/2021 | Adição dos Resultados e Conclusão | Carlos 
+| 1.1    | 28/09/2021 | Adição dos Resultados e Conclusão | Carlos |
