@@ -49,7 +49,44 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 ## 4. Relato dos resultados
 
 <p style="text-indent: 20px; text-align: justify">
-Os resultados serão relatados seguindo o roteiro de respostas e interações dos entrevistados conforme as perguntas que o grupo definiu no planejamento.
+Abaixo segue o relato dos resultados obtidos através da entrevista e também as perguntas utilizadas na entrevista. O objetivo é realizar esta apresentação dos resultados seguindo o proposto no planejamento.
+</p>
+
+| Número | Pergunta | Resposta |
+|:-:|:-:|:-:|
+| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
+
+<center>
+<figcaption>Tabela 1: Perguntas iniciais feitas ao entrevistados.</figcaption>
+</center>
+
+<p style="text-indent: 20px; text-align: justify">
+Com o propósito de coletar mais dados, foram feitas também as seguintes perguntas aos entrevistados:
+</p>
+
+| Número | Pergunta | Resposta |
+|:-:|:-:|:-:|
+| 1 | Você conseguiu efetuar todas as atividades propostas por meio do que foi feito? | <ul> <li> SIM</li> <li>NÃO </li> <li> INCONCLUSIVO</li> </ul> |
+| 2 | Em uma escala de 1 a 5, qual valor você daria para a dificuldade na execução das atividades, sendo que "1" significa extremamente trivial e "5", extremamente complicado? | <ul> <li>1 - Extremamente trivial<li>2 - Trivial<li>3 - Neutro<li>4 - Complicado<li>5 - Extremamente complicado </ul> |
+| 3 | Você cometeu algum erro ou se confundiu em algum processo na hora da realização das tarefas? | <ul> <li> SIM</li> <li>  NÃO </li> <li> INCONCLUSIVO </li> </ul> |
+| 4 | De forma geral, o que você pensou ao realizar todas das tarefas — suas observações e comentários adicionais? | Pergunta discursiva |
+
+<center>
+<figcaption>Tabela 2: Perguntas finais feitas aos entrevistados.</figcaption>
+</center>
+
+<p style="text-indent: 20px; text-align: justify"> 
+Os entrevistadores buscaram utilizar a técnica <b>think aloud</b>, que tem o objetivo de captar exatamente o que o participante desejava realizar e a linha de raciocínio que ele seguia para concluir os passos necessários de acordo com o que lhe era apresentado na interface.
+</p>
+
+### 4.1 Entrevista com Elias
+
+<p style="text-indent: 20px; text-align: justify">
+O estudante Elias se mostrou disposto a participar da atividade e também a ajudar a nossa equipe, seguiu como lhe foi orientado em todos os passos da entrevista e demonstrou facilidade para realizar as tarefas necessárias. As atividades se mostraram simples e de fácil entendimento para o usuário já que o entrevistado seguiu a linha de raciocínio planejada na hora da criação do protótipo de papel. Algo que reforça este resultado é o fato de Elias ter informado ter pouca familiaridade com o portal do Detran mas que achou as atividades a serem realizadas triviais.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Em relação às sugestões, Elias relatou que seria melhor manter as tarefas divididas em categorias na navegação (Ex.: Cliquei na sessão de habilitação, não há necessidade de ver o botão de débitos do veículo). Observação pertinente e considerada pelo grupo, na página de serviços foi considerada a adição de um filtro por categorias nos serviços.
 </p>
 
 ## 5. Conclusão
@@ -63,3 +100,4 @@ Os resultados serão relatados seguindo o roteiro de respostas e interações do
 | Versão |    Data    |     Modificação      |     Autor      |
 | :----: | :--------: | :------------------: | :------------: |
 |  1.0   | 30/09/2021 | Criação do documento | Marcos, Arthur |
+|  1.0.1   | 30/09/2021 | Adição do relato dos resultados do entrevistado Elias| Arthur Sena |
