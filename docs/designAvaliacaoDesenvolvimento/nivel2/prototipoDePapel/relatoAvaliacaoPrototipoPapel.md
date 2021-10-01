@@ -44,7 +44,7 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 </p>
 
 - Entrevista com o Elias: [link](entrevistas/entrevistaElias.md)
-- Entrevista com o Nathan: [link](entrevistas/entrevistaMatheus.md)
+- Entrevista com o Nathan: [link](entrevistas/entrevistaNathan.md)
 
 ## 4. Relato dos resultados
 
