@@ -21,13 +21,16 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 ### 3.1 Verificação Análise de Requisitos
 
 <a href="../verificacao/questionario" target="_blank">Verificação 01: Questionário</a>
+<a href="../verificacao/perfil_de_usuario_personas" target="_blank">Verificação 02: Perfil de Usuário e Personas</a>
+<a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
 
 <a href="../verificacao/metas_de_usabilidade" target="_blank">Verificação 02: Metas de Usabilidade</a>
 
 
 ### 3.2 Verificação do Design, avaliação e desenvolvimento
 
-<a href="../verificacao/planejamentoAvaliacaoDoStoryboard" target="_blank">Verificação 11: Planejamento e Relato da Avaliação dos Storyboards</a>
+<a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 11: Protótipo de Papel</a>
+<a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 12: Planejamento da Avaliação do Protótipo de Papel</a>
 
 ## Referências bibliográficas
 > SERRANO, Maurício; SERRANO, Milene; <b>Requisitos - Aula 23</b>
