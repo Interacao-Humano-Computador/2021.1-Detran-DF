@@ -7,7 +7,7 @@ Após feitos os protótipos de papel partimos então para a avaliação deles, e
 ## 2. Método Selecionado
 
 <p style="text-indent: 20px; text-align: justify">
-O grupo decidiu utilizar como método para esta avaliação a <b>entrevista</b>, pertencente aos métodos de investigação. Assim, para realizarmos as entrevistas, 2 integrantes do grupo foram escolhidos, sendo que cada um entrevistou uma pessoa diferente. 
+O grupo decidiu utilizar como método para esta avaliação a <b>entrevista</b>, pertencente aos métodos de investigação. Assim, para realizarmos as entrevistas, o Carlos e o Matheus entrevistaram uma pessoa e o Marcos outra.
 </p>
 
 ### 2.1 Participantes
@@ -102,7 +102,7 @@ Em relação às sugestões, Nathan relatou uma falta de feedbacks com respostas
 ## 5. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
-Após avaliar as respostas coletadas por meio das entrevistas, podemos concluir que as tarefas desenvolvidas nos protótipos de papel são faceis e intuitivas, independentemente da familiaridade entre usuário e sistema. Algumas sugestões foram coletadas das entrevistas, como por exemplo, apresentar uma resposta quando o usuário realizar uma pesquisa ou envio de dados, para que ele seja informado sorbre a situação de sua tarefa. A navegação tambem foi alvo de possíveis melhorias, segundo o entrevistado, Elias, uma divisão de tarefas por categorias resultaria em uma melhor navegação. 
+Após avaliar as respostas coletadas por meio das entrevistas, podemos concluir que as tarefas desenvolvidas nos protótipos de papel são fáceis e intuitivas, independentemente da familiaridade entre usuário e sistema. Algumas sugestões foram coletadas das entrevistas, como por exemplo, apresentar uma resposta quando o usuário realizar uma pesquisa ou envio de dados, para que ele seja informado sorbre a situação de sua tarefa. A navegação também foi alvo de possíveis melhorias, segundo o entrevistado, Elias, uma divisão de tarefas por categorias resultaria em uma melhor navegação. 
 </p>
 
 ## Referências bibliográficas
