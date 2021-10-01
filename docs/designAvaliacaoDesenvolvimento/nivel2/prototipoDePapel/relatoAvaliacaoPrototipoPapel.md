@@ -89,7 +89,21 @@ O estudante Elias se mostrou disposto a participar da atividade e também a ajud
 Em relação às sugestões, Elias relatou que seria melhor manter as tarefas divididas em categorias na navegação (Ex.: Cliquei na sessão de habilitação, não há necessidade de ver o botão de débitos do veículo). Observação pertinente e considerada pelo grupo, na página de serviços foi considerada a adição de um filtro por categorias nos serviços.
 </p>
 
+### 4.2 Entrevista com Nathan
+
+<p style="text-indent: 20px; text-align: justify">
+O estudante Nathan se mostrou disposto a participar da atividade e também a ajudar a nossa equipe, seguiu como lhe foi orientado em todos os passos da entrevista e demonstrou facilidade para realizar as tarefas necessárias. O entrevistado chegou a informar que achou fácil e intuitiva a realização das tarefas sugeridas. Diferentemente do entrevistado Elias, Nathan avaliou seu nivel de familiaridade com o sistema em 4, em uma escala de 1 à 5.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+Em relação às sugestões, Nathan relatou uma falta de feedbacks com respostas das solicitações. O exemplo utilizado pelo entrevistado foi a tarefa 2.
+</p>
+
 ## 5. Conclusão
+
+<p style="text-indent: 20px; text-align: justify">
+Após avaliar as respostas coletadas por meio das entrevistas, podemos concluir que as tarefas desenvolvidas nos protótipos de papel são faceis e intuitivas, independentemente da familiaridade entre usuário e sistema. Algumas sugestões foram coletadas das entrevistas, como por exemplo, apresentar uma resposta quando o usuário realizar uma pesquisa ou envio de dados, para que ele seja informado sorbre a situação de sua tarefa. A navegação tambem foi alvo de possíveis melhorias, segundo o entrevistado, Elias, uma divisão de tarefas por categorias resultaria em uma melhor navegação. 
+</p>
 
 ## Referências bibliográficas
 
