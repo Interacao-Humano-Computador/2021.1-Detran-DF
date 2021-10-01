@@ -22,6 +22,8 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 <a href="../verificacao/questionario" target="_blank">Verificação 01: Questionário</a>
 
+<a href="../verificacao/metas_de_usabilidade" target="_blank">Verificação 02: Metas de Usabilidade</a>
+
 
 ### 3.2 Verificação do Design, avaliação e desenvolvimento
 
