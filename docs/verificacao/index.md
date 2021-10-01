@@ -42,3 +42,4 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 28/09/2021 | Criação do documento  | Carlos |
 | 1.1    | 28/09/2021 | Adição da Introdução  | Carlos |
+| 1.2    | 01/10/2021 | Adição de verificações | Matheus |
