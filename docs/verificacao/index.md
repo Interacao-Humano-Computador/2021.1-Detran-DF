@@ -34,7 +34,7 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
     </li>
     <li>
-        <a href="../verificacao/analise_tarefas.md" target="_blank">Verificação 09: Protótipo de Papel</a>
+        <a href="../verificacao/analise_tarefas.md" target="_blank">Verificação 09: Planejamento e avaliação das análises de tarefas</a>
     </li>
 </ul>
 
@@ -48,7 +48,7 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 12: Protótipo de Papel</a>
     </li>
     <li>
-        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 12: Planejamento da Avaliação do Protótipo de Papel</a>
+        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 13: Planejamento da Avaliação do Protótipo de Papel</a>
     </li>
 </ul>
 
