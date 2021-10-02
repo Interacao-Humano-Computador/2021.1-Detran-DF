@@ -20,14 +20,34 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 ### 3.1 Verificação Análise de Requisitos
 
-<a href="../verificacao/questionario" target="_blank">Verificação 01: Questionário</a>
-<a href="../verificacao/perfil_de_usuario_personas" target="_blank">Verificação 02: Perfil de Usuário e Personas</a>
-<a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
+<ul>
+    <li>
+        <a href="../verificacao/questionario" target="_blank">Verificação 01: Questionário</a>
+    </li>
+    <li>
+        <a href="../verificacao/perfil_de_usuario_personas" target="_blank">Verificação 02: Perfil de Usuário e Personas</a>
+    </li>
+    <li>
+        <a href="../verificacao/goms" target="_blank">Verificação 04: G.O.M.S</a>
+    </li>
+    <li>
+        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
+    </li>
+    <li>
+        <a href="../verificacao/analise_tarefas.md" target="_blank">Verificação 09: Planejamento e avaliação das análises de tarefas</a>
+    </li>
+</ul>
 
 ### 3.2 Verificação do Design, avaliação e desenvolvimento
 
-<a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 11: Protótipo de Papel</a>
-<a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 12: Planejamento da Avaliação do Protótipo de Papel</a>
+<ul>
+    <li>
+        <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 12: Protótipo de Papel</a>
+    </li>
+    <li>
+        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 13: Planejamento da Avaliação do Protótipo de Papel</a>
+    </li>
+</ul>
 
 ## Referências bibliográficas
 > SERRANO, Maurício; SERRANO, Milene; <b>Requisitos - Aula 23</b>
@@ -36,7 +56,8 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 ## Versionamento
 
 | Versão | Data       | Modificação           | Autor  |
-| ------ | ---------- | --------------------- | ------ |
+|:-:|:-:|:-:|:-:|
 | 1.0    | 28/09/2021 | Criação do documento  | Carlos |
 | 1.1    | 28/09/2021 | Adição da Introdução  | Carlos |
 | 1.2    | 01/10/2021 | Adição de verificações | Matheus |
+| 1.3    | 01/10/2021 | Adição de verificações e correção na listagem | Arthur Sena |
