@@ -34,7 +34,13 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/goms" target="_blank">Verificação 04: G.O.M.S</a>
     </li>
     <li>
-        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
+        <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 05: Princípios e diretrizes do projeto</a>
+    </li>
+    <li>
+        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 07: Guia de Estilo</a>
+    </li>
+    <li>
+        <a href="../verificacao/analiseHierarquicaDeTarefas" target="_blank">Verificação 08: Análise de Tarefas</a>
     </li>
      <li>
         <a href="../verificacao/metas_de_usabilidade" target="_blank">Verificação 06: Metas de Usabilidade</a>
