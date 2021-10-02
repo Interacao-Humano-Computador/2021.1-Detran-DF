@@ -67,25 +67,25 @@ Ou, caso discorde:
 
 ## 5. Preparação
 
-### 4.1 Tarefas
+### 5.1 Tarefas
 
 - <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3._resultados">Consultar Débitos Veículo</a>
 - <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#hta03:-solicitar-cnh-definitiva">Solicitar CHN Definitiva</a>
 - <a target="blank"href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3.\_resultados">Acessar informações</a>
 
-### 4.2 Perfil dos participantes
+### 5.2 Perfil dos participantes
 
 <p style="text-indent: 20px; text-align: justify">
     Para a avaliação buscaremos trazer pessoas que possuam veículo e habilitação, além de pessoas que possuam interesse em acessar informação do site Detran-DF.  
 </p>
 
-### 4.3 Teste Piloto
+### 5.3 Teste Piloto
 
 <p style="text-indent: 20px; text-align: justify">
     O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
 </p>
 
-### 4.4 Protótipo de Alta Fidelidade
+### 5.4 Protótipo de Alta Fidelidade
 
 <p style="text-indent: 20px; text-align: justify">
     O protótipo de Alta Fidelidade pode ser acessado por esse <a href="../prototipoDeAltaFidelidade/#2.resultados" target="_blank">link</a>
