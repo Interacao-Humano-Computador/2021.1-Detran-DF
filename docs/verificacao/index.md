@@ -61,7 +61,7 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 11: Protótipo de Papel</a>
     </li>
     <li>
-        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 12: Planejamento da Avaliação do Protótipo de Papel</a>
+        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 13: Planejamento da Avaliação do Protótipo de Papel</a>
     </li>
     <li>
         <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF//verificacao/prot_alta" target="_blank">Verificação 13: Protótipo de Alta Fidelidade</a>
