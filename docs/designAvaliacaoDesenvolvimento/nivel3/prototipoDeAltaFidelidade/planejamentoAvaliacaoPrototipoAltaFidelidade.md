@@ -2,28 +2,19 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify;">
-O storyboard é um protótipo de baixa fidelidade e por isso demonstra grandes qualidades quanto a velocidade
-de desenvolvimento, custos e complexidade. Por sua simplicidade serve para se comunicar com um cliente de 
-modo a realizar validações do produto, após o procedimento avalia-se os resultados em busca de alinhar os
-desejos e perspectivas do cliente com a equipe de produção e design.
+A avaliação de IHC é uma atividade fundamental em qualquer processo de desenolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface.
 </p>
 
 ## 2. Objetivo
 
 <p style="text-indent: 20px; text-align: justify;">
-Partindo do que foi previamente destacado, chegamos então no desenvolvimento deste documento, que auxiliará
-todo o processo descrito. O intuito é explicitar as metodologias escolhidas e os processos envolvidos a fim
-de melhor descrever aos interessados (avaliadores, usuários, desenvolvedores, etc.).
+Tendo consciência da importância da preparação para uma atividade de avaliação, o objetivo do grupo com este documento é ter um guia de como todo o processo irá ocorrer, algo que conduza o procedimento.
 </p>
 
 ## 3. Método selecionado
 
 <p style="text-indent: 20px; text-align: justify;">
-Após analisar os storyboards criados o grupo decidiu realizar entrevistas para a avaliação do que foi 
-desenvolvido, já que este método nos permite compreender o ponto de vista dos usuários, assim como
-suas expectativas quanto às soluções apresentadas. Levando em conta a facilidade de alteração dos 
-storyboards, por se tratarem de protótipos de baixa fidelidade, o grupo espera também poder realizar
-as mudanças necessárias com baixo custo.
+O escopo desta avaliação é a análise de qualidade do desenvolvimento do protótipo de alta fidelidade da plataforma web Detran DF. A prototipagem de alta fidelidade tem como objetivo apresentar a usabilidade de um design de um produto, neste caso um software. O que difere este do de baixa fidelidade é a aparência de ambos, o de alta fidelidade mira numa aparência mais polida, mais próxima do finalizado e que possa simular o uso em um protótipo de alta fidelidade. Esta simulação por sua vez é uma solução mais demorada, trabalhosa e complexa, mas que se mostra mais eficiente na detecção de problemas.
 </p>
 
 ## 4. Ambiente de avaliação
@@ -41,10 +32,10 @@ a escolha do participante.
 
 O seguinte termo de consentimento deve ser apresentado ao voluntário para que este o aceite e esteja ciente do funcionamento das atividades e ao o que se destina a coleta de dados a ser realizada.
 <br/><br/>
-Somos o grupo 9 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise do site do Detran DF. Buscando entender o que o usuário procura quanto a uma reforma na plataforma e alinhar a análise de tarefas com o cliente final o grupo realizará pesquisas, dentre elas as entrevistas. Para confirmar o seu consentimento de participação nesta atividade é de suma importância a ciência dos seguintes aspectos:
+Somos o grupo 9 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando uma análise do site do Detran DF. Buscando entender o que o usuário procura quanto a uma reforma na plataforma e alinhar a interface com o cliente final o grupo realizará pesquisas, dentre elas as entrevistas. Para confirmar o seu consentimento de participação nesta atividade é de suma importância a ciência dos seguintes aspectos:
 
 <ul>
-<li>Os dados coletados serão utilizados única e exclusivamente com o intuito de auxiliar os estudos e atividades da equipe na análise de interação plataforma usuário do site Detran DF;</li>
+<li>Os dados coletados serão utilizados única e exclusivamente com o intuito de auxiliar os estudos e atividades da equipe na interface do site Detran DF;</li>
 <li>Para a divulgação dos resultados das entrevistas suas informações pessoais estarão seguras e anônimas, sendo compartilhados apenas seu nome e ocupação;</li>
 <li>O horário e duração da entrevista tem total flexibilidade sendo definidos de maneira a atender a demanda do entrevistado;</li>
 <li>Nossa equipe encontra-se disponível para contato através do e-mail 180030345@aluno.unb.br</li>
@@ -66,45 +57,29 @@ Ou, caso discorde:
 ### 6.1 Avaliação dos Storyboards e Convidados
 
 <p style="text-indent: 20px; text-align: justify;">
-Para definir os convidados, primeiramente será feita uma avaliação dos storyboards para
-primeiro entender se há relação entre o que foi desenvolvido e os usuários, tendo em 
-vista possíveis mudanças.
+Para definir os convidados, primeiramente será feita uma avaliação do protótipo de alta fidelidade para primeiro entender se há relação entre o que foi desenvolvido e os usuários, tendo em vista prossíveis mudanças.
 </p>
 
 ### 6.2 Participantes
 
 <p style="text-indent: 20px; text-align: justify;">
-A definição dos participantes levará em conta os perfis de usuários já traçados pela 
-equipe em fases anteriores e tentará buscar por pessoas parecidas com as personas
-previamente criadas.
+A definição dos participantes levará em onta os perfis de usuários já traçados pela equipe em fase anteriores e terntará buscar pessoas parecidas com as personas previamente criadas.
 </p>
 
 ### 6.3 Roteiro de Perguntas
 
-<p style="text-indent: 20px; text-align: justify">
-Inicialmente, o avaliador irá descrever o procedimento da entrevista e solicitará a assinatura do termo de
-consentimento. Caso a assinatura seja positiva, iniciará a entrevista por meio do roteiro abaixo.
-</p>
-
-| Número |                                          Pergunta                                           |                       Possível Resposta                        |
-| :----: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------: |
-|   1    |     Observando os dois primeiros storyboards, você observa uma relação com a realidade?     | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-|  1.1   |   Se a resposta à pergunta 1 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
-|   2    |         Observando o terceiro storyboard, você observa uma relação com a realidade?         | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-|  2.1   |   Se a resposta à pergunta 2 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
-|   3    |          Observando o último storyboard, você observa uma relação com a realidade?          | <ul> <li> SIM</li> <li> NÃO </li> <li> INCONCLUSIVO</li> </ul> |
-|  3.1   |   Se a resposta à pergunta 3 foi NÃO ou INCONCLUSIVO, pode explicar o motivo da resposta?   |                      Pergunta discursiva                       |
-|   4    |       Você realmente acha que o Detran DF ajuda o usuário nessa situação apresentada?       |                      Pergunta discursiva                       |
-|   5    |      Qual dos Storyboards você acha que mais condiz com a realidade do site Detran DF       |                      Pergunta discursiva                       |
-|   6    | O que você pensa sobre a solução do site Detran DF apresentada no Storyboard? Ela é eficaz? |                      Pergunta discursiva                       |
-|   7    |      Você imagina algum outro cenário que poderia ser representado pelos Storyboards?       |                      Pergunta discursiva                       |
+| Número | Pergunta                                                                                                                                              |Possível Resposta                                                                                                                      |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | Defina sua familiaridade com o site Detran-DF dando um valor de 1 a 5, sendo "1" Extremamente desabituado e "5" Familiarizado?                        | - 1- Extremamente desabituado <br/> - 2- Desabituado <br/> - 3- Neutro <br/> - 4- Pouco habituado <br/>- 5- Extremamente familiarizado |
+| 2      | Você conseguiu realizar todas as tarefas propostas?                                                                                                   | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
+| 3      | Em uma escala de 1 a 5, qual valor você daria para a dificuldade encontrada na execução das tarefas, sendo "1" extremamente complicado e "5" trivial? | - 1- Extremamente complicado <br/> - 2- Complicado <br/> - 3- Neutro <br/> - 4- Fácil <br/> - 5- Trivial <br/>                         |
+| 4      | Em alguma etapa você se sentiu confuso ou cometeu algum erro?                                                                                         | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
+| 5      | O que pensou ao realizar as tarefas? Possui algum comentário ou observação para fazer?                                                                | - Discursiva                                                                                                                           |
 
 ## 7. Conclusão
 
-<p style="text-indent: 20px; text-align: justify">
-Com a finalização do documento espera-se ter esclarecido todas as fases do procedimento
-ao leitor e que o conteúdo apresentado sirva de orientação suficiente para as atividades em 
-questão.
+<p style="text-indent: 20px; text-align: justify;">
+    Com a finalização do documento espera-se ter esclarecido todas as fases do procedimento ao leitor e que o conteúdo apresentado sirva de orientação para as atividades em qeustão.
 </p>
 
 ## Referências bibliográficas
@@ -116,3 +91,5 @@ questão.
 | Versão |    Data    |                    Modificação                     |    Autor    |
 | :----: | :--------: | :------------------------------------------------: | :---------: |
 |  1.0   | 30/09/2021 | Criação do Planejamento da Avaliação do Prototipo | Arthur e Marcos |
+|  1.1   | 30/09/2021 | Adição dos tópicos 1, 2, 3, 4, e 5 | Arthur e Marcos |
+|  1.1   | 01/10/2021 | Adição do tópico 6, 7 | Arthur e Marcos |
