@@ -49,7 +49,7 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 07: Princípios e diretrizes do projeto</a>
     </li>
     <li>
-        <a href="../verificacao/analise_tarefas.md" target="_blank">Verificação 08: Planejamento e avaliação das análises de tarefas</a>
+        <a href="../verificacao/analise_tarefas" target="_blank">Verificação 08: Planejamento e avaliação das análises de tarefas</a>
     </li>
     
 </ul>

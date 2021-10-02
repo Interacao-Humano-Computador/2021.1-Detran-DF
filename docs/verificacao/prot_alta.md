@@ -30,7 +30,7 @@
 
 ## Conclusão
 
-<p align = "justify">Ao fim da verificação foram constadados apenas erros em relação ao título dos protótipos 1 e 2 e alguns erros de formatação. Os outros documentos estão de acordo com o que se espera.</p>
+<p align = "justify">Ao fim da verificação não foram constatados erros, visto que o documento é apresentado corretamente e o link para o protótipo funciona perfeitamente.</p>
 
 ## Versionamento
 
