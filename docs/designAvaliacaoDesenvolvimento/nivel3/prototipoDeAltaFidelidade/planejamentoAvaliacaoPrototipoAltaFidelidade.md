@@ -2,22 +2,34 @@
 ## 1. Introdução
 
 <p style="text-indent: 20px; text-align: justify;">
-A avaliação de IHC é uma atividade fundamental em qualquer processo de desenolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface.
+A prototipagem de alta fidelidade tem como objetivo apresentar a usabilidade de um design de um produto, neste caso um software. O que difere este do de baixa fidelidade é a aparência de ambos, o de alta fidelidade mira numa aparência mais polida, mais próxima do finalizado e que possa simular o uso em um protótipo de alta fidelidade.
 </p>
-
-## 2. Objetivo
-
+<p style="text-indent: 20px; text-align: justify;">
+A avaliação de IHC é uma atividade fundamental em qualquer processo de desenvolvimento que busque produzir um sistema interativo com alta qualidade de uso. É ela que orienta o avaliador a fazer um julgamento de valor sobre as qualidades de uso e identificar problemas na interação e na interface.
+</p>
 <p style="text-indent: 20px; text-align: justify;">
 Tendo consciência da importância da preparação para uma atividade de avaliação, o objetivo do grupo com este documento é ter um guia de como todo o processo irá ocorrer, algo que conduza o procedimento.
 </p>
 
-## 3. Método selecionado
+## 2. Metodologia
 
 <p style="text-indent: 20px; text-align: justify;">
-O escopo desta avaliação é a análise de qualidade do desenvolvimento do protótipo de alta fidelidade da plataforma web Detran DF. A prototipagem de alta fidelidade tem como objetivo apresentar a usabilidade de um design de um produto, neste caso um software. O que difere este do de baixa fidelidade é a aparência de ambos, o de alta fidelidade mira numa aparência mais polida, mais próxima do finalizado e que possa simular o uso em um protótipo de alta fidelidade. Esta simulação por sua vez é uma solução mais demorada, trabalhosa e complexa, mas que se mostra mais eficiente na detecção de problemas.
+O escopo desta avaliação é a análise de qualidade do desenvolvimento do protótipo de alta fidelidade da plataforma web Detran DF. Para isso, usando o método de entrevistas, temos atividades e respectivas tarefas presentes no método de prototipagem de alta fidelidade:
 </p>
 
-## 4. Ambiente de avaliação
+<center>
+
+| Atividade                       | Tarefas                                                                                                                                                                                      |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preparação                      | - Definição do quais tarefas os participantes irão realizar <br/> - Definir perfil dos usuários e chamá-los <br/> - Criar protótipo de Alta Fidelidade <br/> - Executar teste piloto                  |
+| Coleta de dados e Interpretação | - Avaliador acompanhar todos os usuários realizarem as tarefas propostas <br/> - Avaliador listar problemas encontrados <br/> - Avaliador refinar protótipo para resolver problemas simples |
+| Consolidação dos resultados     | - Priorizar a correção dos problemas não resolvidos sugerir correções                                                                                                                        |
+| Relato dos resultados           | - Relatar problemas encontrados e sugerir correções                                                                                                                                          |
+
+</center>
+<h6 align = "center">Tabela 1: Atividade e tarefas do método Protótipo de Alta Fidelidade com informações parafraseadas do livro (Interação Humano-Computador e Experiência do usuário. Autopublicação) página 304.</h6>
+
+## 3. Ambiente de avaliação
 
 <p style="text-indent: 20px; text-align: justify;">
 Em busca de manter a rastreabilidade da avaliação a equipe irá buscar realizar gravações das entrevistas.
@@ -26,7 +38,7 @@ a equipe tem em mente as opções: Google Meet, Microsoft Teams, Discord, estand
 a escolha do participante.
 </p>
 
-## 5. Termo de consentimento
+## 4. Termo de consentimento
 
 <p style="text-indent: 20px; text-align: justify;">
 
@@ -52,21 +64,42 @@ Ou, caso discorde:
 
 </p>
 
-## 6. Avaliação
 
-### 6.1 Avaliação dos Storyboards e Convidados
+## 5. Preparação
 
-<p style="text-indent: 20px; text-align: justify;">
-Para definir os convidados, primeiramente será feita uma avaliação do protótipo de alta fidelidade para primeiro entender se há relação entre o que foi desenvolvido e os usuários, tendo em vista prossíveis mudanças.
+### 4.1 Tarefas
+
+- <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3._resultados">Consultar Débitos Veículo</a>
+- <a target="blank" href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#hta03:-solicitar-cnh-definitiva">Solicitar CHN Definitiva</a>
+- <a target="blank"href="../../../../analiseRequisitos/analiseHierarquicaTarefas/#3.\_resultados">Acessar informações</a>
+
+### 4.2 Perfil dos participantes
+
+<p style="text-indent: 20px; text-align: justify">
+    Para a avaliação buscaremos trazer pessoas que possuam veículo e habilitação, além de pessoas que possuam interesse em acessar informação do site Detran-DF.  
 </p>
 
-### 6.2 Participantes
+### 4.3 Teste Piloto
 
-<p style="text-indent: 20px; text-align: justify;">
-A definição dos participantes levará em onta os perfis de usuários já traçados pela equipe em fase anteriores e terntará buscar pessoas parecidas com as personas previamente criadas.
+<p style="text-indent: 20px; text-align: justify">
+    O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador deve conduzir o teste-piloto como se fosse uma sessão normal de avaliação. (Barbosa e Silva, 2010)
 </p>
 
-### 6.3 Roteiro de Perguntas
+### 4.4 Protótipo de Alta Fidelidade
+
+<p style="text-indent: 20px; text-align: justify">
+    O protótipo de Alta Fidelidade pode ser acessado por esse <a href="../prototipoDeAltaFidelidade/#2.resultados" target="_blank">link</a>
+</p>
+
+## 6. Coleta de Dados e Interpretação
+
+<p style="text-indent: 20px; text-align: justify">
+    Nesta atividade um avaliador deve observar o participante realizar as tarefas propostas enquanto outro avaliador simula o sistema para o participante. Qualquer dúvida e/ou problema simples que surgir deve ser listado. Além disso, anotações referentes às perguntas realizadas aos participantes serão feitas.
+</p>
+
+<p style="text-indent: 20px; text-align: justify">
+    Ao iniciar, durante e ao final da atividade o participante será convidado a responder algumas perguntas com o objetivo de coletar dados. Seguem as perguntas:
+</p>
 
 | Número | Pergunta                                                                                                                                              |Possível Resposta                                                                                                                      |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,13 +107,41 @@ A definição dos participantes levará em onta os perfis de usuários já traç
 | 2      | Você conseguiu realizar todas as tarefas propostas?                                                                                                   | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
 | 3      | Em uma escala de 1 a 5, qual valor você daria para a dificuldade encontrada na execução das tarefas, sendo "1" extremamente complicado e "5" trivial? | - 1- Extremamente complicado <br/> - 2- Complicado <br/> - 3- Neutro <br/> - 4- Fácil <br/> - 5- Trivial <br/>                         |
 | 4      | Em alguma etapa você se sentiu confuso ou cometeu algum erro?                                                                                         | - Sim <br/> - Não <br/> - Inconclusivo <br/>                                                                                           |
-| 5      | O que pensou ao realizar as tarefas? Possui algum comentário ou observação para fazer?                                                                | - Discursiva                                                                                                                           |
+| 5      | O que pensou ao realizar as tarefas? Possui algum comentário ou observação para fazer?                                                                | - Discursiva                                                                                                                                                                                               |
 
-## 7. Conclusão
+<h6 align = "center">Tabela 2: Perguntas a serem realizadas na atividade de consolidação e interpretação dos dados.</h6>
+<h6 align = "center">Fonte: Autor.</h6>
 
-<p style="text-indent: 20px; text-align: justify;">
-    Com a finalização do documento espera-se ter esclarecido todas as fases do procedimento ao leitor e que o conteúdo apresentado sirva de orientação para as atividades em qeustão.
+## 7. Consolidação dos resultados
+
+<p style="text-indent: 20px; text-align: justify">
+    Nesta atividade será verificada a lista de problemas a fim de priorizar a correção com base na gravidade e frequência de ocorrência; discutir problemas que não conseguiram ser resolvidos durante a atividade anterior; sugestão de propostas de correções para os problemas. Tudo isso com foco em consolidar problemas encontrados para promover a melhoria no protótipo e nas tarefas.
 </p>
+
+## 8. Relato dos resultados
+
+<p style="text-indent: 20px; text-align: justify">
+    Nesta atividade será informado aos participantes os seguintes tópicos:
+</p>
+
+- Objetivos da avaliação;
+- Descrição do método de prototipação de papel;
+- Número e perfil de avaliadores e participantes;
+- Tarefas executadas;
+- Lista de problemas de usabilidade corrigidos:
+    - Local onde ocorreu;
+    - Fatores prejudicados;
+    - Descrição e justificativa;
+    - Correção realizada;
+    - Indicação se o problema voltou a acontecer.
+- Lista de problemas não corrigidos:
+    - Local onde ocorreu;
+    - Fatores prejudicados;
+    - Descrição e justificativa;
+    - Prioridade para correção;
+    - Sugestão de correção;
+    - Indicações de partes do sistema que podem ser mais bem elaboradas.
+                                                                                                                      |
 
 ## Referências bibliográficas
 
