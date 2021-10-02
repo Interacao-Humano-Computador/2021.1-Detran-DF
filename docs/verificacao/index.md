@@ -31,7 +31,13 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/goms" target="_blank">Verificação 04: G.O.M.S</a>
     </li>
     <li>
-        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 05: Guia de Estilo</a>
+        <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 05: Princípios e diretrizes do projeto</a>
+    </li>
+    <li>
+        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 07: Guia de Estilo</a>
+    </li>
+    <li>
+        <a href="../verificacao/analiseHierarquicaDeTarefas" target="_blank">Verificação 08: Análise de Tarefas</a>
     </li>
     <li>
         <a href="../verificacao/analise_tarefas.md" target="_blank">Verificação 09: Planejamento e avaliação das análises de tarefas</a>
@@ -45,10 +51,16 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 <ul>
     <li>
+        <a href="../verificacao/storyboards" target="_blank">Verificação 10: Storyboards</a>
+    </li>
+    <li>
         <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 12: Protótipo de Papel</a>
     </li>
     <li>
         <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 13: Planejamento da Avaliação do Protótipo de Papel</a>
+    </li>
+    <li>
+        <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF//verificacao/prot_alto" target="_blank">Verificação 14: Protótipo de Alta Fidelidade</a>
     </li>
 </ul>
 
