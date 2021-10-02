@@ -54,7 +54,7 @@ Abaixo segue o relato dos resultados obtidos através da entrevista e também as
 
 | Número | Pergunta | Resposta |
 |:-:|:-:|:-:|
-| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Virtual Judge, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
+| 1 | Em uma escala de 1 a 5, qual valor você daria para a sua familiaridade com o Detran-DF, sendo que "1" significa extremamente desabituado e "5", extremamente familiarizado? | 1 - Extremamente desabituado<br/>2 - Desabituado<br/>3 - Neutro<br/>4 - Familiarizado<br/>5 - Extremamente familiarizado<br/> |
 
 <center>
 <figcaption>Tabela 1: Perguntas iniciais feitas ao entrevistados.</figcaption>
