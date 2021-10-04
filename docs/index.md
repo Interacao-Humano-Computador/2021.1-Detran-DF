@@ -67,3 +67,12 @@
   src="https://www.youtube.com/embed/n_fR8yAN0LM"
   style="margin-bottom: 2rem;"
 ></iframe>
+
+<h1 style ="font-weight:500;margin: 2rem 0;">Entrega 6 - Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação do Protótipo de Alta Fidelidade.</h1>
+
+<iframe 
+  width="100%"
+  height="500px"
+  src="https://www.youtube.com/embed/3wHAUMXiTy4"
+  style="margin-bottom: 2rem;"
+></iframe>

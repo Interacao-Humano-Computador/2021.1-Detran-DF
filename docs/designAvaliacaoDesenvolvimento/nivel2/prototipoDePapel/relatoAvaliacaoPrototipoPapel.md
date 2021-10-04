@@ -37,7 +37,20 @@ Para a realização das entrevistas escolhemos realizá-las remotamente, para cu
 Não foi encontrado nenhum problema durante a realização e gravação das entrevistas, visto que todos os entrevistados tiveram a disponibilidade de equipamentos e infraestrutura para a realização.
 </p>
 
-## 3. Sumário dos dados coletados
+## 3. Teste-Piloto
+<p style="text-indent: 20px; text-align: justify">
+O teste piloto foi realizado por todos os integrantes, sendo que o Arthur guiou o entrevistado Marcos enquanto o Carlos e Matheus observaram e realizaram a anotação de pontos importantes.
+</p>
+<p style="text-indent: 20px; text-align: justify">
+Sendo assim, percebemos que:
+</p>
+- O condutor ao explicar a terceira tarefa de acessar informações induziu o participante a clicar em um card errado, informando que infrações e multas poderiam ser acessadas naquela tarefa.
+
+<p style="text-indent: 20px; text-align: justify">
+O teste-piloto pode ser acessado por aqui: <a href="../entrevistas/testePiloto" target="_blank">link</a>
+</p>
+
+## 4. Sumário dos dados coletados
 
 <p style="text-indent: 20px; text-align: justify">
 As entrevistas realizadas pelo grupo estão disponíveis para a visualização pelo guia lateral ou pelos links abaixo.
@@ -46,7 +59,7 @@ As entrevistas realizadas pelo grupo estão disponíveis para a visualização p
 - Entrevista com o Elias: [link](entrevistas/entrevistaElias.md)
 - Entrevista com o Nathan: [link](entrevistas/entrevistaNathan.md)
 
-## 4. Relato dos resultados
+## 5. Relato dos resultados
 
 <p style="text-indent: 20px; text-align: justify">
 Abaixo segue o relato dos resultados obtidos através da entrevista e também as perguntas utilizadas na entrevista. O objetivo é realizar esta apresentação dos resultados seguindo o proposto no planejamento.
@@ -79,7 +92,7 @@ Com o propósito de coletar mais dados, foram feitas também as seguintes pergun
 Os entrevistadores buscaram utilizar a técnica <b>think aloud</b>, que tem o objetivo de captar exatamente o que o participante desejava realizar e a linha de raciocínio que ele seguia para concluir os passos necessários de acordo com o que lhe era apresentado na interface.
 </p>
 
-### 4.1 Entrevista com Elias
+### 5.1 Entrevista com Elias
 
 <p style="text-indent: 20px; text-align: justify">
 O estudante Elias se mostrou disposto a participar da atividade e também a ajudar a nossa equipe, seguiu como lhe foi orientado em todos os passos da entrevista e demonstrou facilidade para realizar as tarefas necessárias. As atividades se mostraram simples e de fácil entendimento para o usuário já que o entrevistado seguiu a linha de raciocínio planejada na hora da criação do protótipo de papel. Algo que reforça este resultado é o fato de Elias ter informado ter pouca familiaridade com o portal do Detran mas que achou as atividades a serem realizadas triviais.
@@ -89,7 +102,7 @@ O estudante Elias se mostrou disposto a participar da atividade e também a ajud
 Em relação às sugestões, Elias relatou que seria melhor manter as tarefas divididas em categorias na navegação (Ex.: Cliquei na sessão de habilitação, não há necessidade de ver o botão de débitos do veículo). Observação pertinente e considerada pelo grupo, na página de serviços foi considerada a adição de um filtro por categorias nos serviços.
 </p>
 
-### 4.2 Entrevista com Nathan
+### 5.2 Entrevista com Nathan
 
 <p style="text-indent: 20px; text-align: justify">
 O estudante Nathan se mostrou disposto a participar da atividade e também a ajudar a nossa equipe, seguiu como lhe foi orientado em todos os passos da entrevista e demonstrou facilidade para realizar as tarefas necessárias. O entrevistado chegou a informar que achou fácil e intuitiva a realização das tarefas sugeridas. Diferentemente do entrevistado Elias, Nathan avaliou seu nivel de familiaridade com o sistema em 4, em uma escala de 1 à 5.
@@ -99,7 +112,7 @@ O estudante Nathan se mostrou disposto a participar da atividade e também a aju
 Em relação às sugestões, Nathan relatou uma falta de feedbacks com respostas das solicitações. O exemplo utilizado pelo entrevistado foi a tarefa 2.
 </p>
 
-## 5. Conclusão
+## 6. Conclusão
 
 <p style="text-indent: 20px; text-align: justify">
 Após avaliar as respostas coletadas por meio das entrevistas, podemos concluir que as tarefas desenvolvidas nos protótipos de papel são fáceis e intuitivas, independentemente da familiaridade entre usuário e sistema. Algumas sugestões foram coletadas das entrevistas, como por exemplo, apresentar uma resposta quando o usuário realizar uma pesquisa ou envio de dados, para que ele seja informado sorbre a situação de sua tarefa. A navegação também foi alvo de possíveis melhorias, segundo o entrevistado, Elias, uma divisão de tarefas por categorias resultaria em uma melhor navegação. 
@@ -115,3 +128,4 @@ Após avaliar as respostas coletadas por meio das entrevistas, podemos concluir 
 | :----: | :--------: | :------------------: | :------------: |
 |  1.0   | 30/09/2021 | Criação do documento | Marcos, Arthur |
 |  1.0.1   | 30/09/2021 | Adição do relato dos resultados do entrevistado Elias| Arthur Sena |
+|  1.1 | 01/10/2021 | Adição do relato do teste-piloto | Carlos |
