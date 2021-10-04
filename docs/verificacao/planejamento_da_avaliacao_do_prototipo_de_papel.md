@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 <p style="text-indent: 20px; text-align: justify">
-Usando como método a Inspeção, um checklist foi criado para a verificação do <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF/analiseRequisitos/guiaDeEstilo/" target="_blank">Planejamento da avaliação do Protótipo de Papel</a>, artefato este que tem como autor(es):
+Usando como método a Inspeção, um checklist foi criado para a verificação do <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF/nivel2/prototipoDePapel/planejamentoAvaliacaoPrototipoPapel/" target="_blank">Planejamento da avaliação do Protótipo de Papel</a>, artefato este que tem como autor(es):
 </p>
 - Carlos
 <p style="text-indent: 20px; text-align: justify">
