@@ -32,7 +32,7 @@ Cronograma de atividades em grupo da disciplina baseado no plano de ensino, suje
 |Entrega 5|17/09|20/09|Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação e do relato dos resultados da avaliação do Protótipo de Papel.|
 |Entrega 6|30/09|02/10|Relato dos resultados do Protótipo de Papel e Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade|
 |Entrega 7|03/10|04/10|Verificação dos artefatos construídos no projeto|
-|Entrega Final|18/10|20/10|Resultados do Protótipo de Papel e Planejamento da Avaliação e o relato dos resultados da avaliação do protótipo de alta fidelidade.|
+|Entrega Final|18/10|20/10|Entrega final do projeto|
 
 <center>
 <figcaption>Tabela 1 - Cronograma de atividades</figcaption>
