@@ -1,5 +1,3 @@
-## Teste-Piloto
-
 <p style="text-indent: 20px; text-align: justify">
 O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo. O avaliador conduziu o teste-piloto como se fosse uma sessão normal de avaliação.
 </p>
