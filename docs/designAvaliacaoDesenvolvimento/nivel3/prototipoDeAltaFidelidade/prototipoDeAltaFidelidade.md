@@ -16,7 +16,7 @@ A seguir encontra-se o protótipo de alta fidelidade criado na ferramenta <a tar
 
 <center>
 <figcaption>
-    Para acessar o protótipo, acesse este <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF/designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade/" target='_blank'>link</a>
+    Para acessar o protótipo, acesse este <a href="https://www.figma.com/proto/AKd2QhJ1YiogcmPhvxihKs/Protótipo-de-alta-fidelidade-Detran?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2" target='_blank'>link</a>
 </figcaption>
 </center>
 
