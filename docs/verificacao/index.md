@@ -37,19 +37,19 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
         <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 05: Princípios e diretrizes do projeto</a>
     </li>
     <li>
-        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 07: Guia de Estilo</a>
+        <a href="../verificacao/guia_de_estilo" target="_blank">Verificação 06: Guia de Estilo</a>
     </li>
     <li>
-        <a href="../verificacao/analiseHierarquicaDeTarefas" target="_blank">Verificação 08: Análise de Tarefas</a>
+        <a href="../verificacao/analiseHierarquicaDeTarefas" target="_blank">Verificação 07: Análise de Tarefas</a>
     </li>
      <li>
-        <a href="../verificacao/metas_de_usabilidade" target="_blank">Verificação 06: Metas de Usabilidade</a>
+        <a href="../verificacao/metas_de_usabilidade" target="_blank">Verificação 08: Metas de Usabilidade</a>
     </li>
     <li>
-        <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 07: Princípios e diretrizes do projeto</a>
+        <a href="../verificacao/principiosGeraisDoProjeto" target="_blank">Verificação 09: Princípios e diretrizes do projeto</a>
     </li>
     <li>
-        <a href="../verificacao/analise_tarefas" target="_blank">Verificação 08: Planejamento e avaliação das análises de tarefas</a>
+        <a href="../verificacao/analise_tarefas" target="_blank">Verificação 10: Planejamento da Avaliação das Análises de Tarefas</a>
     </li>
     
 </ul>
@@ -58,19 +58,22 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 
 <ul>
     <li>
-        <a href="../verificacao/storyboards" target="_blank">Verificação 09: Storyboards</a>
+        <a href="../verificacao/storyboards" target="_blank">Verificação 11: Storyboards</a>
     </li>
     <li>
-        <a href="../verificacao/planejamentoAvaliacaoDoStoryboard" target="_blank">Verificação 10: Planejamento da Avaliação dos Storyboards</a>
+        <a href="../verificacao/planejamentoAvaliacaoDoStoryboard" target="_blank">Verificação 12: Planejamento da Avaliação dos Storyboards</a>
     </li>
     <li>
-        <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 11: Protótipo de Papel</a>
+        <a href="../verificacao/prototipo_de_papel" target="_blank">Verificação 13: Protótipo de Papel</a>
     </li>
     <li>
-        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 12: Planejamento da Avaliação do Protótipo de Papel</a>
+        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_papel" target="_blank">Verificação 14: Planejamento da Avaliação do Protótipo de Papel</a>
     </li>
     <li>
-        <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF//verificacao/prot_alta" target="_blank">Verificação 13: Protótipo de Alta Fidelidade</a>
+        <a href="https://interacao-humano-computador.github.io/2021.1-Detran-DF//verificacao/prot_alta" target="_blank">Verificação 15: Protótipo de Alta Fidelidade</a>
+    </li>
+    <li>
+        <a href="../verificacao/planejamento_da_avaliacao_do_prototipo_de_alta" target="_blank">Verificação 16: Planejamento da Avaliação do Protótipo de Alta Fidelidade</a>
     </li>
 </ul>
 
@@ -86,3 +89,4 @@ Usando como método a Inspeção, onde o objetivo é encontrar problemas no docu
 | 1.1    | 28/09/2021 | Adição da Introdução  | Carlos |
 | 1.2    | 01/10/2021 | Adição de verificações | Matheus |
 | 1.3    | 01/10/2021 | Adição de verificações e correção na listagem | Arthur Sena |
+| 1.4    | 18/10/2021 | Adição da verificação 16 | Carlos |
