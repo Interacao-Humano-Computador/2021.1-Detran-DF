@@ -57,7 +57,7 @@
 | Escolaridade: | Nível Superior Incompleto |
 | Habilitado: | Não |
 | Requisitos: | Conhecer as informações relacionadas à Carteira Nacional de Habilitação - CNH |
-| Expectativas: | Espera conseguir informações a retirada da sua primeira CNH, assim como pesquisar por resultados das fases do processo |
+| Expectativas: | Espera conseguir informações sobre a retirada da sua primeira CNH, assim como pesquisar por resultados das fases do processo |
 
 <h6><center> Persona 3 </center></h6>
 <br/>
@@ -98,3 +98,4 @@
 | Versão | Data | Modificação| Autor |
 |--|--|--|--|
 | 1.0 | 27/08/2021 | Criação do documento e Adição das Personas | Arthur Sena e Marcos Felipe |
+| 1.1 | 19/10/2021 | Correção de erros                          | Matheus                     |

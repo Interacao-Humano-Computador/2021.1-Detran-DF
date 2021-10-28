@@ -16,7 +16,7 @@ A seguir encontra-se o protótipo de alta fidelidade criado na ferramenta <a tar
 
 <center>
 <figcaption>
-    Para acessar o protótipo, acesse este <a href="https://www.figma.com/file/AKd2QhJ1YiogcmPhvxihKs/Protótipo-de-alta-fidelidade-Detran?node-id=0%3A1" target='_blank'>link</a>
+    Para acessar o protótipo, acesse este <a href="https://www.figma.com/proto/AKd2QhJ1YiogcmPhvxihKs/Protótipo-de-alta-fidelidade-Detran?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2" target='_blank'>link</a>
 </figcaption>
 </center>
 
@@ -31,3 +31,4 @@ A seguir encontra-se o protótipo de alta fidelidade criado na ferramenta <a tar
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 01/10/2021 | Criação do documento  | Carlos e Matheus |
 | 1.1    | 01/10/2021 | Adição dos resultados | Carlos e Matheus |
+| 1.2    | 19/10/2021 | Correção de erros     | Matheus          | 

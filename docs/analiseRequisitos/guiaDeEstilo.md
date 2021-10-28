@@ -5,7 +5,7 @@
 
 ## 1.1. Objetivo do guia de estilo
 <p style="text-indent: 20px; text-align: justify">
-Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. O guia de estilo tem como objetivo se tornar um meio de comunicação entre os membros de design, assim como os desenvolvedores, para servir como base para tomadas de decisão e criação de padrões que podem ser reutilizados durante versoes futuras.
+Trata-se de um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. O guia de estilo tem como objetivo se tornar um meio de comunicação entre os membros de design, assim como os desenvolvedores, para servir como base para tomadas de decisão e criação de padrões que podem ser reutilizados durante versões futuras.
 </p>
 <p style="text-indent: 20px; text-align: justify">
 Um guia de estilo pode ser criado com diferentes escopos: plataforma, corporativo, familia de produtos e um produto específico (Mayhew, 1999).
@@ -86,7 +86,7 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 
 
 <p style="text-indent: 20px; text-align: justify">
-    Algumas animações podem ser encontradas no site, assim como citado anteriomente, quando o mouse está sobre o ícone de libras uma caixa aparece para explicar sobre a funcionalidade. Alem desse animação, há algumas pequenas animações em botões e textos quando o mouse está sobre eles. 
+    Algumas animações podem ser encontradas no site, assim como citado anteriormente, quando o mouse está sobre o ícone de libras uma caixa aparece para explicar sobre a funcionalidade. Alem desse animação, há algumas pequenas animações em botões e textos quando o mouse está sobre eles. 
 </p>
 
 ## 4. Elementos de interação
@@ -95,7 +95,7 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 
 
 <p style="text-indent: 20px; text-align: justify">
-    O site utiliza de menus, para navegação entre janelas, alem de linguagem natural que indica onde estão as funcionalidades e sobre suas utilizações. O site tambem se utiliza de hyperlinks para direcionar o usuário as funcionalidades que estão em links externos.
+    O site utiliza de menus, para navegação entre janelas, alem de linguagem natural que indica onde estão as funcionalidades e sobre suas utilizações. O site também se utiliza de hyperlinks para direcionar o usuário as funcionalidades que estão em links externos.
 </p>
 
 ### 4.2. Seleção de um estilo
@@ -121,7 +121,7 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 ### 5.1. Preenchimento de campos
 
 <p style="text-indent: 20px; text-align: justify">
-    Para realizar uma consulta sobre algum processo, o usuário deve informar alguns dados do processo, se o usuário não informar todos os dados ou informá-los de forma incorreta, o sistema impossibilita a realização do mesmo. Como citado anteriormente no guia de estilo, o layout inicial possui inúmeros elementos o que causa o dificil acesso de alguns deles, um exemplo é a consulta de processo que existe em uma janela expecifica porém também faz parte do layout inicial. 
+    Para realizar uma consulta sobre algum processo, o usuário deve informar alguns dados do processo, se o usuário não informar todos os dados ou informá-los de forma incorreta, o sistema impossibilita a realização do mesmo. Como citado anteriormente no guia de estilo, o layout inicial possui inúmeros elementos o que causa o difícil acesso de alguns deles, um exemplo é a consulta de processo que existe em uma janela especifica porém também faz parte do layout inicial. 
 </p>
 
 <img src="../../assets/formsInicial.png"  style="width:30%;"/>
@@ -143,7 +143,7 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 ### 5.4. Ativação
 
 <p style="text-indent: 20px; text-align: justify">
-    A ativaçäo dos formulários de dá ao clicar no botão de enviar que é encontrado na parte inferior de todo formulário do site, já nos elementos de seleção, a ativação se da no momento de escolha do mês.
+    A ativação dos formulários de dá ao clicar no botão de enviar que é encontrado na parte inferior de todo formulário do site, já nos elementos de seleção, a ativação se da no momento de escolha do mês.
 </p>
 
 ## 6. Vocabulários e padrões
@@ -157,7 +157,7 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 ### 6.2. Tipos de tela
 
 <p style="text-indent: 20px; text-align: justify">
-    As telas do site seguem um padrão, baseado em um menu lateral com tópicos e o contéudo da tela na direita. Algumas telas fogem desse padrão, como por exemplo a tela inicial mas não causa um desconforto ao usuário.  
+    As telas do site seguem um padrão, baseado em um menu lateral com tópicos e o conteúdo da tela na direita. Algumas telas fogem desse padrão, como por exemplo a tela inicial mas não causa um desconforto ao usuário.  
 </p>
 
 ### 6.3. Sequência de diálogos
@@ -177,3 +177,4 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 | Versão | Data | Modificação| Autor |
 |--|--|--|--|
 | 1.0 | 03/09/2021 | Criação do documento |  Arthus e Marcos Felipe |
+| 1.1 | 19/10/2021 | Correção de erros    |  Matheus                |
