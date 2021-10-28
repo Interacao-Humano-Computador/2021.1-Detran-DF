@@ -1,0 +1,2051 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.2.3, mkdocs-material-7.3.5">
+    
+    
+      
+        <title>Análise Hierárquica de Tarefas - IHC Grupo 9</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.cdeb8541.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#4051b5">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#analise-hierarquica-de-tarefas" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="IHC Grupo 9" class="md-header__button md-logo" aria-label="IHC Grupo 9" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IHC Grupo 9
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Análise Hierárquica de Tarefas
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Limpar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando a pesquisa
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="IHC Grupo 9" class="md-nav__button md-logo" aria-label="IHC Grupo 9" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    IHC Grupo 9
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Início
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2">
+          Atas de Reunião
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Atas de Reunião" data-md-level="1">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Atas de Reunião
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao1/" class="md-nav__link">
+        Reunião 1 - 17/08
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/reuniao2/" class="md-nav__link">
+        Reunião 2 - 27/08
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Processo de Design
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Processo de Design" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Processo de Design
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../processoDeDesign/usabilidadeDeMayhew/" class="md-nav__link">
+        Usabilidade de Mayhew
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Análise de Requisitos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de Requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../perfil/" class="md-nav__link">
+        Perfil do Usuário e Personas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Análise Hierárquica de Tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Análise Hierárquica de Tarefas
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-o-metodo" class="md-nav__link">
+    2. O Método
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-resultados" class="md-nav__link">
+    3. Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hta01-agendar-servico" class="md-nav__link">
+    HTA01: Agendar Serviço
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA01: Agendar Serviço">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta02-consultar-debitos-veiculo" class="md-nav__link">
+    HTA02: Consultar Débitos Veículo
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA02: Consultar Débitos Veículo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_1" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_1" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta03-solicitar-chn-definitiva" class="md-nav__link">
+    HTA03: Solicitar CHN Definitiva
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA03: Solicitar CHN Definitiva">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_2" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_2" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta04-transferir-propriedade-de-um-veiculo" class="md-nav__link">
+    HTA04: Transferir propriedade de um veículo
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA04: Transferir propriedade de um veículo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_3" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_3" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta05-agendamento-de-biometria" class="md-nav__link">
+    HTA05: Agendamento de Biometria
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA05: Agendamento de Biometria">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_4" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_4" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta06-acessar-informacoes" class="md-nav__link">
+    HTA06: Acessar informações
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA06: Acessar informações">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_5" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_5" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metodoGOMS/" class="md-nav__link">
+        G.O.M.S
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../guiaDeEstilo/" class="md-nav__link">
+        Guia de Estilo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metas_de_usabilidade/" class="md-nav__link">
+        Metas de usabilidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../principiosGeraisProjeto/" class="md-nav__link">
+        Princípios Gerais do Projeto
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Design, Avaliação e Desenvolvimento
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Design, Avaliação e Desenvolvimento" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Design, Avaliação e Desenvolvimento
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1">
+          Nível 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nível 1" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1_1" type="checkbox" id="__nav_6_1_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1_1">
+          Análise de Tarefas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Análise de Tarefas" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Análise de Tarefas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/taskAnalisysPlanning/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/resultadosAvaliacao/" class="md-nav__link">
+        Relato de Resultados da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1_1_3" type="checkbox" id="__nav_6_1_1_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1_1_3">
+          Entrevistas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Entrevistas" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_1_1_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrevistas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaElias/" class="md-nav__link">
+        Elias Yousef
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMatheus/" class="md-nav__link">
+        Matheus Henrique
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/taskAnalisys/entrevistas/entrevistaMarilia/" class="md-nav__link">
+        Marília Florêncio
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1_2" type="checkbox" id="__nav_6_1_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1_2">
+          Storyboards
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Storyboards" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_1_2">
+          <span class="md-nav__icon md-icon"></span>
+          Storyboards
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/storyboards/" class="md-nav__link">
+        Storyboards
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/planejamentoAvaliacaoDoStoryboard/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/relatoResultadosStoryboards/" class="md-nav__link">
+        Relato de Resultados da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1_2_4" type="checkbox" id="__nav_6_1_2_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_1_2_4">
+          Entrevistas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Entrevistas" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_1_2_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrevistas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaElias/" class="md-nav__link">
+        Elias Yousef
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaMatheus/" class="md-nav__link">
+        Matheus Henrique
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel1/storyboards/entrevistas/entrevistaMarilia/" class="md-nav__link">
+        Marília Florêncio
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2">
+          Nível 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nível 2" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Nível 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_1" type="checkbox" id="__nav_6_2_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2_1">
+          Protótipo de Papel
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Protótipo de Papel" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de Papel
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/prototiposDePapel/" class="md-nav__link">
+        Protótipos de Papel
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/planejamentoAvaliacaoPrototipoPapel/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/relatoAvaliacaoPrototipoPapel/" class="md-nav__link">
+        Relato de Resultados da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2_1_4" type="checkbox" id="__nav_6_2_1_4" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_2_1_4">
+          Entrevistas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Entrevistas" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_2_1_4">
+          <span class="md-nav__icon md-icon"></span>
+          Entrevistas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/testePiloto/" class="md-nav__link">
+        Teste-Piloto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaElias/" class="md-nav__link">
+        Elias Yousef
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel2/prototipoDePapel/entrevistas/entrevistaNathan/" class="md-nav__link">
+        Nathan Fernandes
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_3" type="checkbox" id="__nav_6_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3">
+          Nivel 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Nivel 3" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Nivel 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_3_1" type="checkbox" id="__nav_6_3_1" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_1">
+          Protótipo de Alta Fidelidade
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Protótipo de Alta Fidelidade" data-md-level="3">
+        <label class="md-nav__title" for="__nav_6_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Protótipo de Alta Fidelidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/prototipoDeAltaFidelidade/" class="md-nav__link">
+        Protótipo de Alta Fidelidade
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/planejamentoAvaliacaoPrototipoAltaFidelidade/" class="md-nav__link">
+        Planejamento da Avaliação
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_3_1_3" type="checkbox" id="__nav_6_3_1_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6_3_1_3">
+          Entrevistas
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Entrevistas" data-md-level="4">
+        <label class="md-nav__title" for="__nav_6_3_1_3">
+          <span class="md-nav__icon md-icon"></span>
+          Entrevistas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/entrevistas/testePiloto/" class="md-nav__link">
+        Teste-Piloto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/entrevistas/entrevistaNathan/" class="md-nav__link">
+        Nathan Fernandes
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../designAvaliacaoDesenvolvimento/nivel3/prototipoDeAltaFidelidade/entrevistas/entrevistaAlice/" class="md-nav__link">
+        Alice Florêncio
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/" class="md-nav__link">
+        Verificação
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-o-metodo" class="md-nav__link">
+    2. O Método
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-resultados" class="md-nav__link">
+    3. Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hta01-agendar-servico" class="md-nav__link">
+    HTA01: Agendar Serviço
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA01: Agendar Serviço">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta02-consultar-debitos-veiculo" class="md-nav__link">
+    HTA02: Consultar Débitos Veículo
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA02: Consultar Débitos Veículo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_1" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_1" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta03-solicitar-chn-definitiva" class="md-nav__link">
+    HTA03: Solicitar CHN Definitiva
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA03: Solicitar CHN Definitiva">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_2" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_2" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta04-transferir-propriedade-de-um-veiculo" class="md-nav__link">
+    HTA04: Transferir propriedade de um veículo
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA04: Transferir propriedade de um veículo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_3" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_3" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta05-agendamento-de-biometria" class="md-nav__link">
+    HTA05: Agendamento de Biometria
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA05: Agendamento de Biometria">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_4" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_4" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hta06-acessar-informacoes" class="md-nav__link">
+    HTA06: Acessar informações
+  </a>
+  
+    <nav class="md-nav" aria-label="HTA06: Acessar informações">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#diagrama-hta_5" class="md-nav__link">
+    Diagrama HTA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-hta_5" class="md-nav__link">
+    Tabela HTA
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="analise-hierarquica-de-tarefas">Análise Hierarquica de Tarefas</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p style="text-indent: 20px; text-align: justify"> 
+Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir (Barbosa S.; Silva, B. 2021).
+</p>
+
+<h2 id="2-o-metodo">2. O Método</h2>
+<p style="text-indent: 20px; text-align: justify"> 
+A Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis) foi criada para entender habilidades e competências exibidas em tarefas não repetitivas e complexas, e ajudar na identificação de problemas de desempenho. Relaciona o motivo, como e consequências das ações dos usuários. Baseada na psicologia funcional. A HTA examina os objetivos de alto nível decompondo-os em subobjetivos, com a intenção de encontrar subobjetivos que limitem o alcance de objetivos maiores. 
+</p>
+
+<p style="text-indent: 20px; text-align: justify"> 
+Elementos de um diagrama HTA:
+</p>
+<ul>
+<li>Objetivo;</li>
+<li>Operação;</li>
+<li>Relações;</li>
+<li>Plano.</li>
+</ul>
+<h2 id="3-resultados">3. Resultados</h2>
+<h3 id="hta01-agendar-servico">HTA01: Agendar Serviço</h3>
+<h4 id="diagrama-hta">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-AgendarServico.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 1: Diagrama referente a tarefa de agendar um serviço no Detran-DF, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-AgendarServico.png"> Link da imagem </a></p>
+<h4 id="tabela-hta">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Agendar Serviço <br/> <center>1+2+3&gt;4</center></td>
+<td>plano: informar os dados e agendar serviço.</td>
+</tr>
+<tr>
+<td>1. Informar dados do Cidadão</td>
+<td>ação: informar CPF, E-mail, Nome e Telefone. <br/> input: formulário com dados do cidadão, dados do agendamento e data e hora.</td>
+</tr>
+<tr>
+<td>2. Informar Tipo de Serviço</td>
+<td>ação: selecionar Tipo de Serviço <br/> problema: serviços indisponíveis</td>
+</tr>
+<tr>
+<td>2.1 Selecionar Serviço(s)</td>
+<td>ação: selecionar os serviços desejados</td>
+</tr>
+<tr>
+<td>3. Informar data e hora</td>
+<td>ação: informar dia do atendimento e horário do atendimento. <br/> problema: somente alguns dias e horários disponíveis.</td>
+</tr>
+<tr>
+<td>4. Agendar</td>
+<td>ação: apertar botão de agendar.</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 1: Tabela referente a descrição da HTA01</figcaption>
+
+<h3 id="hta02-consultar-debitos-veiculo">HTA02: Consultar Débitos Veículo</h3>
+<h4 id="diagrama-hta_1">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-Consultar Débitos de Veiculo.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 2: Diagrama referente a tarefa de consultar os possíveis débitos de um veículo, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Consultar%20D%C3%A9bitos%20de%20Veiculo.png"> Link da imagem </a></p>
+<h4 id="tabela-hta_1">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Consultar Débitos Veículo <br/> <center>1+2&gt;3</center></td>
+<td>input: formulário com placa e renavam do veículo. <br/> plano: Consultar todos os débitos do veículo.</td>
+</tr>
+<tr>
+<td>1. Informar placa e renavam</td>
+<td>ação: Informar placa e renavam.</td>
+</tr>
+<tr>
+<td>2. reCAPTCHA</td>
+<td>ação: clicar em "Não sou um robô"</td>
+</tr>
+<tr>
+<td>3. Consultar</td>
+<td>ação: clicar em Consultar</td>
+</tr>
+<tr>
+<td>3.1 Emitir boleto de débito</td>
+<td>ação: clicar no botão Emitir do débito correspondente</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 2: Tabela referente a descrição da HTA02</figcaption>
+
+<h3 id="hta03-solicitar-chn-definitiva">HTA03: Solicitar CHN Definitiva</h3>
+<h4 id="diagrama-hta_2">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-Solicitar CNH definitiva.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 3: Diagrama referente a tarefa de solicitar a emissão da CNH definitiva, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Solicitar%20CNH%20definitiva.png"> Link da imagem </a></p>
+<h4 id="tabela-hta_2">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Solicitar CNH Definitiva <br/> <center>1&gt;2</center></td>
+<td>plano: obter borderô de taxa de troca de habilitação.</td>
+</tr>
+<tr>
+<td>1. Preencher formulário</td>
+<td>ação: informar código da imagem, número de registro, nome e data de nascimento. <br/> input: formulário com código, registro, nome e data de nascimento. <br/>problema: é preciso recarregar a página para o formulário ficar visível. <br/> recomendação1: incorporar formulário ao HTML da página. <br/> recomendação2: seguir guia de estilo do site/sistema.</td>
+</tr>
+<tr>
+<td>2. Enviar</td>
+<td>ação: clicar no botão enviar</td>
+</tr>
+<tr>
+<td>2.1 Baixar borderô</td>
+<td>ação: baixar borderô</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 3: Tabela referente a descrição da HTA03</figcaption>
+
+<h3 id="hta04-transferir-propriedade-de-um-veiculo">HTA04: Transferir propriedade de um veículo</h3>
+<h4 id="diagrama-hta_3">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-Transferir a propriedade de um veículo.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 4: Diagrama referente a tarefa de realizar a transferência de propriedade de um veículo, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Transferir%20a%20propriedade%20de%20um%20ve%C3%ADculo.png"> Link da imagem </a></p>
+<h4 id="tabela-hta_3">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Tranferir a propriedade de um veículo<br> <center> 1/2&gt;3&gt;4 </center></td>
+<td>plano: realizar vistoria para transferir a propriedade do veículo. <br> problema: site usado para realizar a ação é um diferente do Detran-DF e seu portal, adicionando assim mais um site ao caminho</td>
+</tr>
+<tr>
+<td>1. Agendar Vistoria do Veículo</td>
+<td>ação: entrar na área de agendamento de serviços e agendar a vistoria. <br/>  input: formulário com placa, renavam e captcha. <br/> problema: é preciso voltar ao portal para assim selecionar a opção de realizar vistoria. <br/> recomendação1: colocar um link que redirecionará o usuário para a área de agendamento de serviços.</td>
+</tr>
+<tr>
+<td>1.1 Realizar Vistoria</td>
+<td>ação: Realizar Vistoria presencialmente em uma unidade do Detran-DF</td>
+</tr>
+<tr>
+<td>2. Informar dados do Veiculo</td>
+<td>ação: preencher formulário com dados do veículo</td>
+</tr>
+<tr>
+<td>2.1 Informar placa, renavam e responder o Captcha</td>
+<td>ação: informar a placa e renavam do veículo e responder o Captcha</td>
+</tr>
+<tr>
+<td>3. Pagar Dívidas Ativas do Veículo <br/> <center>1/2</center></td>
+<td>ação: Verificar se há dividas referentes ao veículo, se sim, efetuar o pagamento</td>
+</tr>
+<tr>
+<td>3.1 Emitir boleto de pagamento</td>
+<td>ação: emitir boleto para o pagamento da dívida e realiza-lo</td>
+</tr>
+<tr>
+<td>3.2 Acessar site da receita Federal caso a dívida seja o IPVA</td>
+<td>ação: Acessar o site da Receita Federal para obter o boleto de pagamento do IPVA</td>
+</tr>
+<tr>
+<td>4 Agendamento da transferência da propriedade do veículo</td>
+<td>ação: Realizar o agendamento/informativo da transferência de propriedade do veículo</td>
+</tr>
+<tr>
+<td>4.1 Confirmação do agendamento</td>
+<td>ação: confirmar e realizar a transferência do veículo</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 4: Tabela referente a descrição da HTA04</figcaption>
+
+<h3 id="hta05-agendamento-de-biometria">HTA05: Agendamento de Biometria</h3>
+<h4 id="diagrama-hta_4">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-Agendamento de Biometria.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 5: Diagrama referente a tarefa de realizar o agendamento do cadastro de biometria, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Agendamento%20de%20Biometria.png"> Link da imagem </a></p>
+<h4 id="tabela-hta_4">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Agendamento de Biometria <br/> <center>1&gt;2&gt;3</center></td>
+<td>plano: Agendar o cadastro de Biometria em um posto de atendimento do Detran-DF <br> problema: O site utilizado para o agendamento da biometria é outro além dos já citados, com cadastro próprio.</td>
+</tr>
+<tr>
+<td>1. Entrar ou cadastrar-se <br/> <center>1/2</center></td>
+<td>ação: Acessar o site de realização do agendamento de biometria <br/> problema: cadastro próprio do site. <br/> recomendação: Usar o cadastro do portal de serviços do Detran-DF</td>
+</tr>
+<tr>
+<td>1.1 Inserir CPF e senha para entrar</td>
+<td>ação: inserir CPF e Senha para login no site <br/> input: CPF e senha</td>
+</tr>
+<tr>
+<td>1.2 Se cadastrar</td>
+<td>ação: realizar cadastro no site para efetuar o agendamento.</td>
+</tr>
+<tr>
+<td>2. Clicar em novo agendamento</td>
+<td>ação: clicar em novo agendamento para segui para página desejada.</td>
+</tr>
+<tr>
+<td>2.1 Inserir dados para o agendamento</td>
+<td>ação: escolher o posto de atendimento, a data de agendamento e o horário de agendamento <br/> input: local de agendamento, data do agendamento e horario do agendamento</td>
+</tr>
+<tr>
+<td>3. Clicar em cadastrar</td>
+<td>ação: clicar em "cadastrar" para finalizar o agendamento.</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 5: Tabela referente a descrição da HTA05</figcaption>
+
+<h3 id="hta06-acessar-informacoes">HTA06: Acessar informações</h3>
+<h4 id="diagrama-hta_5">Diagrama HTA</h4>
+<p><img src="../../assets/analiseRequisitos/HTA/HTA-Acessar informações.png" width="700px;" alt=""/></p>
+<figcaption style="text-align: center">Figura 6: Diagrama referente a tarefa de acessar informações diversas, fonte: autores.</figcaption>
+
+<p><a href="https://github.com/Interacao-Humano-Computador/2021.1-Detran-DF/blob/9bbc647fd93dca8c7485d79b87f9591afaacea3b/docs/assets/analiseRequisitos/HTA/HTA-Acessar%20informa%C3%A7%C3%B5es.png"> Link da imagem </a></p>
+<h4 id="tabela-hta_5">Tabela HTA</h4>
+<table>
+<thead>
+<tr>
+<th>Objetivo/Operações</th>
+<th>Problemas e Recomendações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0. Acessar Informações <br/> <center>1/2/3</center></td>
+<td>plano: obter as informações desejadas no site do Detran-DF.</td>
+</tr>
+<tr>
+<td>1. Escolher categoria pela barra superior</td>
+<td>ação: Escolher categoria desejada pela barra de superior de seleção.</td>
+</tr>
+<tr>
+<td>1.1 Escolher a página de informação dentro da categoria</td>
+<td>ação: escolher informação dentro das categorias mostradas após escolha na barra superior <br> problema: Muitas escolhas. <br> recomendação: Deixar a escolha de temas e categorias mais intuitivas e auxiliar o usuário nessa escolha.</td>
+</tr>
+<tr>
+<td>2. Escolher a informação rolando a página</td>
+<td>ação: Escolher a informação desejada após rolar o site. <br> problema: Página muito poluída visualmente, ocasionando confusão ao usuário <br> recomendação: usar de um design mais minimalista para mostrar as informações de destaque</td>
+</tr>
+<tr>
+<td>3. Pesquisar a informação</td>
+<td>ação: Pesquisar pela informação desejada usado a barra de pesquisa do site. <br> input: palavra-chave para pesquisa. <br/> problema: Se a informação for uma funcionalidade do site e não uma noticia a pesquisa responde com informações erradas. <br> recomendação: incluir páginas referentes á funcionalidades ofertadas pelo sítio nos resultados de pesquisa.</td>
+</tr>
+</tbody>
+</table>
+<figcaption style="text-align: center">Tabela 6: Tabela referente a descrição da HTA06</figcaption>
+
+<h2 id="referencias-bibliograficas">Referências bibliográficas</h2>
+<blockquote>
+<p>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação.</p>
+</blockquote>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.0</td>
+<td>23/08/2021</td>
+<td>Criação do documento</td>
+<td>Carlos e Matheus</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>23/08/2021</td>
+<td>Adição dos resultados</td>
+<td>Carlos e Matheus</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>26/08/2021</td>
+<td>Correção de diagramas e adição de novos</td>
+<td>Carlos e Matheus</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Rodapé">
+      
+        
+        <a href="../perfil/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Perfil do Usuário e Personas" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Perfil do Usuário e Personas
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../metodoGOMS/" class="md-footer__link md-footer__link--next" aria-label="Próximo: G.O.M.S" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              G.O.M.S
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant"], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "Mais 1 nesta p\u00e1gina", "search.result.more.other": "Mais # nesta p\u00e1gina", "search.result.term.missing": "Ausente", "select.version.title": "Selecione a vers\u00e3o"}, "search": "../../assets/javascripts/workers/search.8397ff9e.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e84347e.min.js"></script>
+      
+    
+  </body>
+</html>
