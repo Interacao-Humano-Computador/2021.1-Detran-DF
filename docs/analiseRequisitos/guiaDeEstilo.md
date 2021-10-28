@@ -177,3 +177,4 @@ O site utiliza minimamente de símbolos não tipográficos, nosso grupo encontro
 | Versão | Data | Modificação| Autor |
 |--|--|--|--|
 | 1.0 | 03/09/2021 | Criação do documento |  Arthus e Marcos Felipe |
+| 1.1 | 19/10/2021 | Correção de erros    |  Matheus                |

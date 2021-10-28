@@ -31,3 +31,4 @@ A seguir encontra-se o protótipo de alta fidelidade criado na ferramenta <a tar
 | ------ | ---------- | --------------------- | ------ |
 | 1.0    | 01/10/2021 | Criação do documento  | Carlos e Matheus |
 | 1.1    | 01/10/2021 | Adição dos resultados | Carlos e Matheus |
+| 1.2    | 19/10/2021 | Correção de erros     | Matheus          | 

@@ -98,3 +98,4 @@
 | Versão | Data | Modificação| Autor |
 |--|--|--|--|
 | 1.0 | 27/08/2021 | Criação do documento e Adição das Personas | Arthur Sena e Marcos Felipe |
+| 1.1 | 19/10/2021 | Correção de erros                          | Matheus                     |
